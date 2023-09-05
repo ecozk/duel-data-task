@@ -1,0 +1,1433 @@
+,file_name,tier_name,text,clean_text,start_time,end_time
+0,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,16.4015431789,16.6822418557
+1,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,23.524241922,23.8171448891
+2,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,33.4986861489,37.8278263527
+3,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,45.048255122,45.4754052824
+4,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,65.3836858965,65.7864274763
+5,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,88.2264431066,88.5071417834
+6,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,98.5024555364,99.1004657609
+7,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,100.97316169,102.23020359
+8,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,103.882191184,105.346706019
+9,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,123.461055864,132.894876991
+10,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,136.184311133,136.526031262
+11,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,138.150230782,144.699423585
+12,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,151.837707123,152.155018671
+13,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,160.055494655,162.056998263
+14,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,167.548928897,168.171347702
+15,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,174.964527334,181.664682706
+16,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,185.173367249,200.926752428
+17,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,203.93331912,215.765828417
+18,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,217.498837639,220.049534311
+19,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,227.335395714,232.60642191
+20,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,239.810913039,248.907416883
+21,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,250.786877589,260.018756861
+22,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,264.005034805,266.555731477
+23,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,270.74724071,270.942509355
+24,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,279.040520643,282.274657572
+25,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,284.936221188,287.401487828
+26,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,289.280948533,304.703899271
+27,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,308.511538866,312.758631889
+28,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,324.535573144,325.243421981
+29,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,327.327155151,328.401132697
+30,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,331.696291077,342.795430471
+31,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,344.692534054,347.43849937
+32,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,349.06166998,356.697045546
+33,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,366.01210116,368.294303445
+34,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,378.600248752,382.359170163
+35,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,385.931644368,391.484596453
+36,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,398.586264341,399.757876209
+37,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,405.731213678,410.808198441
+38,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,415.455678524,415.870624394
+39,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,433.364711073,446.434278768
+40,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,454.837395461,457.04299008
+41,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,459.766702456,462.695732127
+42,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,465.490514605,465.905460475
+43,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,468.775624334,472.534545745
+44,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,474.916538919,477.284171236
+45,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,479.230091054,488.608524493
+46,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,493.414656644,496.722019314
+47,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,500.159117165,506.057072326
+48,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,508.774118902,516.621377659
+49,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,525.270837555,527.876919136
+50,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,533.756004208,538.42019874
+51,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,541.959442926,549.723528121
+52,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,553.513424008,558.834494578
+53,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,560.425363595,566.088154293
+54,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,567.912033061,568.168323157
+55,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,570.084396733,571.731975923
+56,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,573.770092403,576.845573558
+57,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,578.756009666,592.869607836
+58,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,599.600637781,607.814125151
+59,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,612.206440593,614.342191395
+60,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,620.359932989,628.658749561
+61,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,630.928747556,633.369605615
+62,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,636.639130055,657.630308632
+63,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,659.387726434,665.148051551
+64,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,669.249719569,674.950336973
+65,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,679.750935265,682.545717743
+66,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,694.399265738,705.236574692
+67,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,707.181366275,707.669537887
+68,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,710.171417398,712.856361263
+69,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,717.298623953,719.946954948
+70,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,724.97512255,730.820876772
+71,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,734.468733285,743.817219652
+72,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,748.550129767,759.857868477
+73,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,765.150021232,766.126364456
+74,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,775.405933581,775.662223677
+75,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,777.756851448,786.360876108
+76,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,790.074161549,792.881148317
+77,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,796.907338756,797.334488916
+78,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,800.654055877,800.849324521
+79,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,816.854587688,817.138570239
+80,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,819.764647365,820.838624911
+81,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,829.151903169,832.678843161
+82,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,836.584216056,837.353086345
+83,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,839.555298112,842.398897751
+84,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,844.375992779,844.803142939
+85,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,848.459918942,850.571261163
+86,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,855.610405844,860.38228335
+87,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,866.808305941,869.566475548
+88,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,874.247282775,888.243247372
+89,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,890.547501864,893.513144407
+90,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1346.28572493,1346.66405793
+91,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1355.54389168,1355.71475175
+92,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1360.81604536,1363.76948362
+93,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1366.17034688,1370.75690541
+94,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1380.24169656,1383.89077936
+95,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1393.17804447,1410.13637144
+96,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1412.08342135,1413.43809757
+97,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1425.63890696,1425.95621851
+98,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1428.55573234,1430.26433299
+99,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1436.25654147,1436.41519724
+100,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1439.19439258,1448.76358543
+101,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1456.12267443,1462.68407245
+102,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1466.11778837,1466.50832566
+103,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1468.33896921,1473.48917971
+104,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1510.77165511,1529.47396653
+105,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1533.93068905,1539.78874839
+106,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1549.26574366,1552.40224626
+107,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1554.50466807,1554.79757103
+108,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1557.40928916,1563.68322465
+109,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1591.99801037,1592.84339027
+110,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1594.49096946,1598.43295523
+111,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1601.1999472,1604.3996269
+112,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1643.76688771,1666.78839058
+113,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1668.37484934,1699.59415532
+114,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1713.85082212,1716.04759438
+115,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1727.85786648,1730.78689615
+116,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1739.50066045,1741.63641125
+117,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1746.01098761,1750.96583142
+118,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1752.69884065,1778.83018015
+119,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1783.68738964,1786.40894637
+120,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1790.27648011,1791.81422069
+121,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1794.86529326,1800.93851967
+122,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1804.85609686,1807.33234057
+123,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1813.22701279,1820.46395991
+124,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1823.27094667,1843.74931967
+125,../transcriptions_annotations/r15/r15.TextGrid,B-turns,B,B,1848.12615092,1850.59458011
+126,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,12.6732128505,123.461055864
+127,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,129.794987256,138.796029257
+128,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,140.688723164,176.685332265
+129,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,181.206972903,188.309869856
+130,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,190.019499755,190.784987192
+131,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,192.76208222,193.103802348
+132,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,197.131218146,227.335395714
+133,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,232.728464813,242.971824226
+134,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,244.489463796,250.567200363
+135,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,256.040158224,264.053851967
+136,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,266.732029202,272.346002739
+137,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,274.756814749,278.91847774
+138,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,280.55385264,289.659281532
+139,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,305.301810518,318.483472369
+140,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,323.046649728,344.82134266
+141,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,347.743606628,350.025808913
+142,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,351.53914091,361.134896127
+143,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,368.89231367,380.705966773
+144,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,382.566643098,398.073684148
+145,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,399.855510532,411.442821537
+146,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,413.612830689,416.737129005
+147,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,418.506751098,419.226804226
+148,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,421.118469222,422.936908476
+149,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,424.749710262,436.745299485
+150,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,439.967232123,460.521212815
+151,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,463.049656545,469.556698913
+152,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,471.155460942,474.648044532
+153,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,477.076698301,478.492395976
+154,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,486.179870724,494.110301191
+155,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,495.611428897,509.689440675
+156,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,515.41315292,546.80670274
+157,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,548.991270703,554.79487449
+158,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,556.944986148,557.372136308
+159,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,560.498589337,580.415793146
+160,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,584.741550499,597.031172776
+161,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,608.216866731,610.279391791
+162,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,615.660254747,625.144014786
+163,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,626.730471694,627.047783242
+164,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,628.817405335,635.873641692
+165,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,645.152086288,647.629557218
+166,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,656.995685536,694.664477177
+167,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,699.976525574,700.562331508
+168,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,703.381522567,703.820877017
+169,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,705.643625697,709.915127301
+170,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,713.002812746,713.283511423
+171,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,714.906682033,716.358992578
+172,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,718.104107113,723.437381973
+173,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,725.560827654,733.261734831
+174,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,738.007977471,738.300880438
+175,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,744.437283937,750.368569021
+176,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,752.479911242,753.926583393
+177,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,762.147765819,764.942548297
+178,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,769.743142883,774.197708842
+179,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,784.688888337,785.567597238
+180,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,787.329324467,796.24830708
+181,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,798.664756558,830.43335365
+182,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,842.874865073,853.341635061
+183,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,856.965082067,858.710295579
+184,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,861.487235372,875.003948773
+185,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,880.54131279,883.238460946
+186,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,885.70475499,889.619975802
+187,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,893.549757277,898.689920058
+188,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,900.549382439,901.074166922
+189,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1342.40476061,1366.67072278
+190,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1372.18029722,1380.40035234
+191,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1384.12266088,1392.94739202
+192,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1405.35228964,1406.32863287
+193,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1410.14857573,1436.02465995
+194,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1437.66885629,1438.97471535
+195,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1445.89557721,1470.46251572
+196,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1472.15891207,1509.64003896
+197,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1529.64482659,1533.45472173
+198,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1539.36149926,1548.69778133
+199,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1552.40224626,1557.65337496
+200,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1564.52532068,1568.1233317
+201,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1569.66107228,1590.22623171
+202,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1592.44064869,1594.49096946
+203,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1604.82677706,1605.66887309
+204,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1640.44732075,1647.2939276
+205,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1666.97135596,1668.59452657
+206,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1672.74398527,1674.74548888
+207,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1693.60748533,1694.96216155
+208,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1700.65592858,1710.95850615
+209,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1713.47248912,1714.71732673
+210,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1717.69517357,1730.86012189
+211,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1733.41071959,1741.66081983
+212,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1744.2657741,1746.29168629
+213,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1752.90631358,1755.42039738
+214,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1762.94367879,1765.56760121
+215,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1779.79422103,1785.72550612
+216,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1787.48395225,1796.03690513
+217,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1798.387823,1805.18561269
+218,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1807.40556632,1813.04394843
+219,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1817.5306171,1817.9089501
+220,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1820.14664836,1823.07567803
+221,../transcriptions_annotations/r15/r15.TextGrid,A-turns,A,A,1845.33136891,1849.00485967
+222,../transcriptions_annotations/r15/r15.TextGrid,Comments,experiment has not started yet,experiment has not started yet,0.0,12.6732128505
+223,../transcriptions_annotations/r15/r15.TextGrid,Comments,"B says ""von so'm Film"", short for ""von so einem Film"", I wasn't sure how to mark this.","B says ""von so'm Film"" short for ""von so einem Film"" I wasn't sure how to mark this",175.977483428,179.687587678
+224,../transcriptions_annotations/r15/r15.TextGrid,Comments,"that seems to be a movie, not sure about the orthography here",that seems to be a movie not sure about the orthography here,245.734301406,248.541288174
+225,../transcriptions_annotations/r15/r15.TextGrid,Comments,"that's a German TV show with funny home videos - ""official"" spelling","that's a German TV show with funny home videos - ""official"" spelling",256.040158224,257.199565802
+226,../transcriptions_annotations/r15/r15.TextGrid,Comments,probably some Wurst producer,probably some Wurst producer,306.473422386,309.768580766
+227,../transcriptions_annotations/r15/r15.TextGrid,Comments,not sure how to annotate this,not sure how to annotate this,372.992855306,375.531347687
+228,../transcriptions_annotations/r15/r15.TextGrid,Comments,"German would be ""modelliert"". She might mean the English ""to model"", but the pronunciation sounds very German to me","German would be ""modelliert"" She might mean the English ""to model"" but the pronunciation sounds very German to me",392.203420516,393.533688158
+229,../transcriptions_annotations/r15/r15.TextGrid,Comments,"a messed up attempt at saying ""klassisch""","a messed up attempt at saying ""klassisch""",480.3040686,483.501592658
+230,../transcriptions_annotations/r15/r15.TextGrid,Comments,"probably some kind of verb, maybe ""machen""","probably some kind of verb maybe ""machen""",491.864711776,494.110301191
+231,../transcriptions_annotations/r15/r15.TextGrid,Comments,they're talking about whether both characters are allowed to embarass themselves. should this be left out?,they're talking about whether both characters are allowed to embarass themselves should this be left out?,645.152086288,647.629557218
+232,../transcriptions_annotations/r15/r15.TextGrid,Comments,Loriot was a very popular German cartoonist,Loriot was a very popular German cartoonist,657.508265729,659.107027758
+233,../transcriptions_annotations/r15/r15.TextGrid,Comments,unsure whether to mark as repairs or separate utterances,unsure whether to mark as repairs or separate utterances,663.416068807,669.249719569
+234,../transcriptions_annotations/r15/r15.TextGrid,Comments,"probably ""Ständer""","probably ""Ständer""",749.648515893,752.711792758
+235,../transcriptions_annotations/r15/r15.TextGrid,Comments,"never seen that word before and couldn't find it online, it's probably some kind of funny improvised insult",never seen that word before and couldn't find it online it's probably some kind of funny improvised insult,784.920769852,786.360876108
+236,../transcriptions_annotations/r15/r15.TextGrid,Comments,TV show,TV show,799.213949622,800.019432781
+237,../transcriptions_annotations/r15/r15.TextGrid,Comments,B completes A's sentence. should this be marked somehow?,B completes A's sentence should this be marked somehow?,867.296477553,869.566475548
+238,../transcriptions_annotations/r15/r15.TextGrid,Comments,"""cocoa-coffee-whatever-stain""","""cocoa-coffee-whatever-stain""",900.854489697,903.490616401
+239,../transcriptions_annotations/r15/r15.TextGrid,Comments,break,break,908.343709631,1341.96178823
+240,../transcriptions_annotations/r15/r15.TextGrid,Comments,technical problems,technical problems,1604.3996269,1640.36160116
+241,../transcriptions_annotations/r15/r15.TextGrid,Comments,experiment is over,experiment is over,1850.59458011,1852.81306122
+242,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Nein,Nein,16.4015431789,16.6822418557
+243,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,23.524241922,23.8171448891
+244,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Du meinst die Metal-Band auch relativ berühmt,Du meinst die Metal-Band auch relativ berühmt,33.4986861489,34.7923409204
+245,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ah,Ah,35.9961544772,36.1792188317
+246,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Okay,Okay,36.1792188317,36.4477132182
+247,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,37.1199775155,37.8278263527
+248,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Na ja klar,Na ja klar,45.048255122,45.4754052824
+249,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,65.3836858965,65.7864274763
+250,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,88.2264431066,88.5071417834
+251,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Okay,Okay,98.5024555364,99.1004657609
+252,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und du bist hingefallen?,Und du bist hingefallen?,100.97316169,102.23020359
+253,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,103.882191184,105.346706019
+254,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das stimmt,Ja das stimmt,123.461055864,123.973540784
+255,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das <v='finde'>find'</v> ich auch gut,Das find' ich auch gut,123.973540784,124.559346719
+256,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Da ist halt die Frage . für . welche Zielgruppe wir das machen wollen,Da ist halt die Frage für welche Zielgruppe wir das machen wollen,124.559346719,127.329720616
+257,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne,Ne,127.415150648,127.622623583
+258,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ob wir Kinder Jugendliche . Horrorfilm,Ob wir Kinder Jugendliche Horrorfilm,127.622623583,129.587514321
+259,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,129.587514321,130.209933126
+260,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das <v='ist'>is'</v> vielleicht auch relevant,Das is' vielleicht auch relevant,130.209933126,131.19848064
+261,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder ob das <v='eine'>'ne</v> Liebeskomödie werden soll,Oder ob das 'ne Liebeskomödie werden soll,131.19848064,132.894876991
+262,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,136.184311133,136.526031262
+263,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Gut und die rennen weg oder laufen irgendwo hin oder so,Gut und die rennen weg oder laufen irgendwo hin oder so,138.150230782,140.871787519
+264,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja obwohl eigentlich ist das ja makaber,Ja obwohl eigentlich ist das ja makaber,142.185339784,143.540016007
+265,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber irgendwie ist das natürlich auch witzig,Aber irgendwie ist das natürlich auch witzig,143.540016007,144.699423585
+266,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,151.837707123,152.155018671
+267,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,160.055494655,161.385762297
+268,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,161.52000949,162.056998263
+269,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,167.548928897,168.171347702
+270,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das <v='finde'>find'</v> ich auch gut,Ja das find' ich auch gut,174.964527334,175.745601913
+271,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(Soll das denn so <v='eine'>'ne</v> + Soll das dann so <v='eine'>'ne</v>) Art . Filmverarsche sein von so <v='einem'>'m</v> Film,Soll das denn so 'ne Soll das dann so 'ne Art Filmverarsche sein von so 'm Film,175.977483428,179.687587678
+272,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder generell so <v='eine'>'ne</v> Komödie die irgendwie -,Oder generell so 'ne Komödie die irgendwie -,179.687587678,181.664682706
+273,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Boah <v='kenne'>kenn'</v> ich nicht,Boah kenn' ich nicht,185.173367249,185.746968893
+274,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,186.711107827,187.126053697
+275,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber . es geht ja irgendwie <unsure>dass wir so <v='ein'>'n</v></unsure> ... gruseligen . Kriegsfilm . drehen lassen,Aber es geht ja irgendwie dass wir so 'n gruseligen Kriegsfilm drehen lassen,187.907128276,193.897081217
+276,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wie auch immer,Wie auch immer,193.897081217,194.373048539
+277,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und dann ist das aber gleichzeitig auch so <v='eine'>'ne</v> Komödie .. wo immer solche Sachen passieren,Und dann ist das aber gleichzeitig auch so 'ne Komödie wo immer solche Sachen passieren,194.373048539,198.217399982
+278,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Vielleicht dass man auch Kinder damit erreicht oder so,Vielleicht dass man auch Kinder damit erreicht oder so,198.900840239,200.926752428
+279,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,203.93331912,204.372673571
+280,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,204.567942215,207.167456049
+281,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,207.484767596,208.241433595
+282,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F äh},,209.541640366,209.73690901
+283,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,211.103789524,213.395521132
+284,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,214.838302354,215.765828417
+285,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,217.498837639,219.134212539
+286,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,219.634588441,220.049534311
+287,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,227.335395714,227.602662889
+288,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja doch eigentlich schon,Ja doch eigentlich schon,227.602662889,228.542393242
+289,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich frag mich ob halt Kriegsfilm dafür das richtige wäre oder ob es dafür noch andere Alternativen gibt,Ich frag mich ob halt Kriegsfilm dafür das richtige wäre oder ob es dafür noch andere Alternativen gibt,228.542393242,232.60642191
+290,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,239.810913039,240.567579037
+291,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,240.567579037,241.226610713
+292,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,241.226610713,241.580535132
+293,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja Cheerleader <v='finde'>find'</v> ich auch witzig weil die haben ja allgemein auch dieses Bild,Ja Cheerleader find' ich auch witzig weil die haben ja allgemein auch dieses Bild,241.580535132,244.025700764
+294,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Sie sehen immer gut aus und alle Bewegungen sind so perfekt koordiniert,Sie sehen immer gut aus und alle Bewegungen sind so perfekt koordiniert,244.025700764,246.893708984
+295,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja gut das stimmt,Ja gut das stimmt,248.260589497,248.907416883
+296,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unsure>Ja</unsure>,Ja,250.786877589,251.128597717
+297,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber eigentlich <v='gibt es'>gibt's</v> ja die Szene auch öfter,Aber eigentlich gibt's ja die Szene auch öfter,251.622205137,252.915859908
+298,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Man kann ja auch irgendwelche Kinder nehmen die irgendwo hin rennen wollen,Man kann ja auch irgendwelche Kinder nehmen die irgendwo hin rennen wollen,252.915859908,255.100427871
+299,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja Kinder <v='finde'>find'</v> ich auch immer witzig,Ja Kinder find' ich auch immer witzig,255.490965161,256.735802771
+300,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,257.138544351,257.712145995
+301,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(Ja: + Ja) gut so <v='ein'>'n</v> Bisschen,Ja Ja gut so 'n Bisschen,257.956231801,259.274295153
+302,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,259.274295153,260.018756861
+303,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Naja gut aber was ist denn <p='peinlich'>peinli-</p>,Naja gut aber was ist denn peinli-,264.005034805,265.554979673
+304,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also ich wüsste jetzt nicht was -,Also ich wüsste jetzt nicht was -,265.554979673,266.555731477
+305,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,270.74724071,270.942509355
+306,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das Geburtstagsgeschenk schon mal verrät . und die Person daneben sitzt oder sowas,Das Geburtstagsgeschenk schon mal verrät und die Person daneben sitzt oder sowas,279.040520643,282.274657572
+307,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja: <unsure><name>Kati</name></unsure>,Ja Kati,284.936221188,285.607457154
+308,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,285.607457154,286.559391797
+309,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Stimmt</laughter>,Stimmt,286.559391797,287.401487828
+310,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das <v='finde'>find'</v> ich auch gut,Ja das find' ich auch gut,289.280948533,290.086431693
+311,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder . was ich auch immer gut finde,Oder was ich auch immer gut finde,290.848721729,292.056946468
+312,../transcriptions_annotations/r15/r15.TextGrid,B-utts,So Liebespaare wo halt irgendwas total schief geht,So Liebespaare wo halt irgendwas total schief geht,292.056946468,294.949363268
+313,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Weiß ich nicht,Weiß ich nicht,295.510760622,295.986727944
+314,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Er (will + lädt) sie ein zum Burger machen und sie ist eigentlich Vegetarierin und denkt .. (sie + er) hat halt vegetarische Sachen gekauft,Er will lädt sie ein zum Burger machen und sie ist eigentlich Vegetarierin und denkt sie er hat halt vegetarische Sachen gekauft,295.986727944,301.498556998
+315,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und hat er halt nicht,Und hat er halt nicht,301.498556998,302.165406889
+316,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und dann ist das voll peinlich weil es das erste Date ist oder so,Und dann ist das voll peinlich weil es das erste Date ist oder so,302.165406889,304.240136239
+317,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,304.240136239,304.703899271
+318,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,308.511538866,310.390999571
+319,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Genau</laughter>,Genau,310.390999571,310.830354022
+320,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,312.221643116,312.758631889
+321,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja mir auch,Ja mir auch,324.535573144,325.243421981
+322,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,327.327155151,328.401132697
+323,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Ach ja genau</laughter>,Ach ja genau,331.696291077,333.148601623
+324,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,333.197418784,333.624568944
+325,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,333.709998976,334.002901943
+326,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unsure>Ja</unsure>,Ja,334.454460684,335.028062328
+327,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und die <unclear/> das ne,Und die das ne,335.973232195,337.120435483
+328,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,337.767262868,337.962531513
+329,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder (<p='jemanden'>je-</p> + über jemanden) lästert der dann irgendwie einen Tisch weiter im Cafe sitzt oder so,Oder je- über jemanden lästert der dann irgendwie einen Tisch weiter im Cafe sitzt oder so,339.402637768,342.795430471
+330,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,344.692534054,345.009845601
+331,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Es gibt auch in der Schule immer megaviele peinliche Szenen,Es gibt auch in der Schule immer megaviele peinliche Szenen,345.009845601,347.43849937
+332,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja genau,Ja genau,349.06166998,349.501024431
+333,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und dann rollt irgendwie (aus + der $O$B aus) der Tasche und alle sehen das oder so,Und dann rollt irgendwie aus der OB aus der Tasche und alle sehen das oder so,349.501024431,352.930430004
+334,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Finde ich auch immer sehr schön,Finde ich auch immer sehr schön,353.426295746,354.280596067
+335,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,354.878606291,355.562046548
+336,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Ich</laughter> <v='finde'>find'</v> das superlustig,Ich find' das superlustig,355.562046548,356.697045546
+337,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja stolpern finde ich allgemein schon ziemlich . gut,Ja stolpern finde ich allgemein schon ziemlich gut,366.01210116,368.294303445
+338,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,378.600248752,378.868743138
+339,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Vielleicht sowas wie <v='ein'>n</v> Vorstellungsgespräch oder wo man . wichtig daherkommen sollte,Vielleicht sowas wie n Vorstellungsgespräch oder wo man wichtig daherkommen sollte,378.868743138,382.359170163
+340,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das stimmt das finde ich auch gut,Ja das stimmt das finde ich auch gut,385.931644368,386.944600463
+341,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,387.920943687,388.531158201
+342,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,388.531158201,389.116964136
+343,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder wenn die so aus dem Auto stolpern würde das <v='wäre'>wär'</v> natürlich auch super,Oder wenn die so aus dem Auto stolpern würde das wär' natürlich auch super,389.373254232,391.484596453
+344,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne,Ne,398.586264341,398.95239305
+345,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Was passiert da,Was passiert da,399.196478856,399.757876209
+346,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,405.731213678,406.243793871
+347,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ah: okay,Ah okay,406.341428193,407.098094191
+348,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und ihm dann die Show rauben,Und ihm dann die Show rauben,407.098094191,408.330727511
+349,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>So quasi</laughter>,So quasi,408.330727511,409.197232122
+350,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das <v='finde'>find'</v> ich auch gut,Ja das find' ich auch gut,410.027123863,410.808198441
+351,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,415.455678524,415.870624394
+352,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja oder so,Ja oder so,433.364711073,433.913904136
+353,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='finde'>find'</v> gerade so beim ersten Date da kann ja so unfassbar viel schief gehen,Ich find' gerade so beim ersten Date da kann ja so unfassbar viel schief gehen,433.913904136,436.598848001
+354,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das stimmt,Ja das stimmt,437.465352612,438.087771417
+355,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und er beißt die ganze Zeit in ihren Rock oder so,Und er beißt die ganze Zeit in ihren Rock oder so,438.283040062,440.528629477
+356,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Ja genau</laughter>,Ja genau,441.699014133,442.516701583
+357,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,442.516701583,442.895034582
+358,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,442.895034582,443.248959001
+359,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Auch schön,Auch schön,443.248959001,443.981216419
+360,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='glaube'>glaub'</v> da kannst du aber nichts mehr retten,Ich glaub' da kannst du aber nichts mehr retten,444.542613772,445.787451382
+361,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,445.787451382,446.434278768
+362,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,454.837395461,455.60626575
+363,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,456.152076888,456.322936952
+364,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,456.579227049,457.04299008
+365,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja gut aber (das + das) ist ja nicht peinlich,Ja gut aber das das ist ja nicht peinlich,459.766702456,461.133582969
+366,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das <v='wäre'>wär'</v> ja eher süß,Das wär' ja eher süß,461.133582969,462.061109031
+367,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also,Also,462.341807708,462.695732127
+368,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Naja,Naja,465.490514605,465.905460475
+369,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unclear/>,,468.775624334,469.227183075
+370,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wenn er dann so mit den Füßen . scharrt damit man denkt es ist nicht der Hund sondern er,Wenn er dann so mit den Füßen scharrt damit man denkt es ist nicht der Hund sondern er,469.227183075,472.534545745
+371,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wenn man das durch andere Dinge versucht zu kaschieren meinst du,Wenn man das durch andere Dinge versucht zu kaschieren meinst du,474.916538919,477.284171236
+372,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja versucht man das nicht immer,Ja versucht man das nicht immer,479.230091054,480.3040686
+373,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber . so ganz (klaschiss + klassisch) irgendwie wenn du im Vorstellungsgespräch bist,Aber so ganz klaschiss klassisch irgendwie wenn du im Vorstellungsgespräch bist,480.3040686,483.501592658
+374,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,483.58702269,483.879925657
+375,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dir die Hose reißt dann versuchst du das ja auch irgendwie zu kaschieren indem du irgendwie deine Tasche dann davor machst <unsure>oder so</unsure> damit das keiner merkt,Dir die Hose reißt dann versuchst du das ja auch irgendwie zu kaschieren indem du irgendwie deine Tasche dann davor machst oder so damit das keiner merkt,483.95868989,488.608524493
+376,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,493.414656644,493.67094674
+377,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Boah es sind echt nur Dinge die mir einfallen die anderen Leuten <laughter>passiert sind</laughter>,Boah es sind echt nur Dinge die mir einfallen die anderen Leuten passiert sind,493.744172482,496.722019314
+378,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne das <v='möchte'>möcht'</v> ich hier nicht veröffentlichen,Ne das möcht' ich hier nicht veröffentlichen,500.159117165,501.355137614
+379,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,501.940943549,502.941695353
+380,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,504.409493136,504.836643297
+381,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unclear/>,,504.897664748,505.056320522
+382,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,505.495674973,506.057072326
+383,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also weiß ich nicht,Also weiß ich nicht,508.774118902,509.237881934
+384,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Man kann ja auch das Wasser (<p>über-</p> + umkippen),Man kann ja auch das Wasser über- umkippen,509.237881934,510.983095446
+385,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Auf die Unterlagen,Auf die Unterlagen,511.251589833,512.227933056
+386,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Auf die wichtigen Zeugnisse,Auf die wichtigen Zeugnisse,512.227933056,513.399544925
+387,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Irgendwie auf wichtige Unterlagen der Firma,Irgendwie auf wichtige Unterlagen der Firma,513.655835021,515.315618502
+388,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unclear/>,,515.974550274,516.621377659
+389,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,525.270837555,525.47831049
+390,../transcriptions_annotations/r15/r15.TextGrid,B-utts,So richtig schick,So richtig schick,525.47831049,526.271589359
+391,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,526.986005945,527.876919136
+392,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja <v='finde'>find'</v> ich auch gut,Ja find' ich auch gut,533.756004208,534.646917399
+393,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Zieht immer so an der Krawatte man denkt er kriegt keine Luft,Zieht immer so an der Krawatte man denkt er kriegt keine Luft,535.08627185,536.880302524
+394,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,537.748962774,538.42019874
+395,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja und immer so das Jackett auf- und zumacht damit er sich Luft zufächert,Ja und immer so das Jackett auf- und zumacht damit er sich Luft zufächert,541.959442926,544.534548179
+396,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,545.56186513,545.891380968
+397,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Stolpert er über seinen offenen Schnürsenkel,Stolpert er über seinen offenen Schnürsenkel,546.867724191,548.515303382
+398,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wenn er reingeht,Wenn er reingeht,549.198743638,549.723528121
+399,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ist dann erst an der falschen Tür,Ist dann erst an der falschen Tür,553.513424008,554.843691651
+400,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und .. ist dann irgendwo anders,Und ist dann irgendwo anders,554.843691651,556.564496583
+401,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wo kann man denn woanders landen <unclear/> wo es peinlich ist,Wo kann man denn woanders landen wo es peinlich ist,556.991646743,558.834494578
+402,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Eigentlich,Eigentlich,560.425363595,560.730470853
+403,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(Ja + Ja) (das + das) <v='ist'>is'</v> schön,Ja Ja das das is' schön,561.584771173,562.707565881
+404,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber,Aber,563.049286009,563.403210428
+405,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,563.403210428,564.428370812
+406,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,564.428370812,564.782295231
+407,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja wenn das aber so <v='ein'>'n</v> Trottel ist,Ja wenn das aber so 'n Trottel ist,564.782295231,566.088154293
+408,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unclear/>,,567.912033061,568.168323157
+409,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,570.084396733,571.731975923
+410,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,573.770092403,574.685414175
+411,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,575.942456076,576.394014817
+412,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Jau,Jau,576.394014817,576.845573558
+413,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Die die das mit ihm führt,Die die das mit ihm führt,578.756009666,579.939825825
+414,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Genau und am Besten hat die vorher noch irgendwie,Genau und am Besten hat die vorher noch irgendwie,580.452406017,582.112189498
+415,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ihre Bluse aufgemacht,Ihre Bluse aufgemacht,582.942081238,583.85740301
+416,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Warum auch immer,Warum auch immer,583.85740301,584.394391783
+417,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder zugemacht oder so,Oder zugemacht oder so,584.394391783,585.529390781
+418,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja weiß ich nicht macht man das,Ja weiß ich nicht macht man das,586.889505591,587.926870266
+419,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,587.926870266,590.13584681
+420,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,590.56299697,592.283801902
+421,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,592.283801902,592.869607836
+422,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Na aber ist das denn so peinlich wenn der die Damentoilette betritt und sie sich Lippenstift drauf macht,Na aber ist das denn so peinlich wenn der die Damentoilette betritt und sie sich Lippenstift drauf macht,599.600637781,603.310742032
+423,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='meine'>mein'</v> das ist ja keine komische Situation,Ich mein' das ist ja keine komische Situation,603.310742032,604.750848287
+424,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Er wird zwar merken,Er wird zwar merken,604.750848287,605.263428479
+425,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Okay hier bin ich falsch,Okay hier bin ich falsch,605.263428479,605.983481607
+426,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,605.983481607,606.447244638
+427,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber das ist ja nichts was wirklich peinlich ist,Aber das ist ja nichts was wirklich peinlich ist,606.447244638,607.814125151
+428,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja weiß ich nicht,Ja weiß ich nicht,612.206440593,612.572569302
+429,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wenn sie sich gerade <v='ein'>'n</v> anderes Oberteil anzieht zum Beispiel,Wenn sie sich gerade 'n anderes Oberteil anzieht zum Beispiel,612.572569302,614.342191395
+430,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja wo soll sie das denn sonst <laughter>machen</laughter>,Ja wo soll sie das denn sonst machen,620.359932989,621.922082147
+431,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,621.922082147,623.838155724
+432,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,623.838155724,624.350735916
+433,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,624.729068915,624.973154721
+434,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Sie hat sich vorher Kakao <v='darüber'>drüber</v> gekippt oder so,Sie hat sich vorher Kakao drüber gekippt oder so,624.973154721,626.584121041
+435,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder weiß ich was,Oder weiß ich was,626.99896608,627.645793466
+436,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(<p='Kann'>Ka-</p> + Kann) ja immer sein,Ka- Kann ja immer sein,627.865470691,628.658749561
+437,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,630.928747556,632.039337973
+438,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Genau</laughter>,Genau,632.039337973,632.564122456
+439,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,632.832616842,633.369605615
+440,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,636.639130055,636.919828732
+441,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und {F äh} dann,Und dann,636.919828732,637.432408925
+442,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Was ich noch schön finden würde,Was ich noch schön finden würde,637.432408925,638.494182181
+443,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wenn sie sich vorher irgendwie Kakao <v='darüber'>drüber</v> gekippt hat,Wenn sie sich vorher irgendwie Kakao drüber gekippt hat,638.494182181,640.202782822
+444,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wobei das ja auch irgendwie peinlich <v='ist'>is'</v>,Wobei das ja auch irgendwie peinlich is',640.53229866,641.642889077
+445,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ist halt die Frage ob er nur peinlich sein soll oder sie,Ist halt die Frage ob er nur peinlich sein soll oder sie,641.642889077,643.497941202
+446,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Weil wenn sie sich <v='ein'>'n</v> neues Oberteil anzieht,Weil wenn sie sich 'n neues Oberteil anzieht,643.497941202,644.938047457
+447,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne ich glaube nicht,Ne ich glaube nicht,646.396923898,647.068159864
+448,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das man das dann irgendwie . dadurch sieht,Das man das dann irgendwie dadurch sieht,647.812621572,649.563272746
+449,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dass das irgendwie . durch den $B$H noch so durchtropft in das neue Oberteil,Dass das irgendwie durch den BH noch so durchtropft in das neue Oberteil,649.563272746,652.675366771
+450,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und er dann die ganze Zeit hingucken will aber eigentlich auch nicht,Und er dann die ganze Zeit hingucken will aber eigentlich auch nicht,652.675366771,654.66466609
+451,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<v='Weil es'>Weil's</v> schon so peinlich ist,Weil's schon so peinlich ist,654.66466609,655.567783572
+452,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,655.628805023,655.982729442
+453,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wenn man das mit einbaut <v='fände'>fänd'</v> ich vielleicht auch ganz schön,Wenn man das mit einbaut fänd' ich vielleicht auch ganz schön,656.190202377,657.630308632
+454,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne,Ne,659.387726434,659.717242273
+455,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,660.99859285,662.414290524
+456,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,663.04891362,664.659879939
+457,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,664.659879939,665.148051551
+458,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,669.249719569,669.446202049
+459,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,670.617813918,673.339370654
+460,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,674.340122458,674.950336973
+461,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,679.750935265,680.77609565
+462,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,681.996524679,682.545717743
+463,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja (erstmal <p='das'>da-</p> {F äh} + entweder das oder) (sie + er) ist die ganze Zeit schon <p>z-</p> völlig durcheinander und weiß gar nicht mehr wo er hingucken soll,Ja erstmal da- entweder das oder sie er ist die ganze Zeit schon z- völlig durcheinander und weiß gar nicht mehr wo er hingucken soll,694.399265738,699.500558252
+464,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Weiß gar nicht mehr was er sagen soll,Weiß gar nicht mehr was er sagen soll,699.500558252,700.855234475
+465,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,700.855234475,701.196954604
+466,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und sie ist eigentlich total professionell und <v='merkt es'>merkt's</v> nicht,Und sie ist eigentlich total professionell und merkt's nicht,701.196954604,703.174049632
+467,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,703.174049632,703.564586921
+468,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und gleichzeitig versucht er es ihr halt mitzuteilen,Und gleichzeitig versucht er es ihr halt mitzuteilen,703.564586921,705.236574692
+469,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,707.181366275,707.669537887
+470,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F äh} weiß ich nicht,weiß ich nicht,710.171417398,710.830449074
+471,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das (<p='wäre'>w-</p> + <v='wäre'>wär'</v>) vielleicht auch ganz gut,Das w- wär' vielleicht auch ganz gut,711.282007815,712.856361263
+472,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,717.298623953,717.57932263
+473,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Die die . Krawatte richtig stehen haben,Die die Krawatte richtig stehen haben,717.933247049,719.946954948
+474,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und sie vielleicht gar nicht anschauen,Und sie vielleicht gar nicht anschauen,724.97512255,726.293185902
+475,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,727.220611134,728.013890004
+476,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja total,Ja total,728.013890004,728.819373163
+477,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,728.819373163,729.588243452
+478,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,729.966576451,730.820876772
+479,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,734.468733285,734.847066284
+480,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja du kannst halt . total dumme Dinge sagen ne,Ja du kannst halt total dumme Dinge sagen ne,735.188786412,737.54421444
+481,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Im Vorstellungsgespräch,Im Vorstellungsgespräch,738.300880438,739.21620221
+482,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,739.21620221,739.484696597
+483,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ist halt auch die Frage was ist das für <v='eine'>'ne</v> Firma,Ist halt auch die Frage was ist das für 'ne Firma,739.484696597,740.912598562
+484,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder was ist das für <v='ein'>'n</v> Vorstellungsgespräch für was,Oder was ist das für 'n Vorstellungsgespräch für was,741.901146076,743.817219652
+485,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,748.550129767,749.270182894
+486,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Achso,Achso,749.270182894,749.648515893
+487,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja hat sie sich (vom <p>St-</p> + von der Kleiderstange) direkt <v='eine'>'ne</v> neue genommen,Ja hat sie sich vom St- von der Kleiderstange direkt 'ne neue genommen,749.648515893,752.711792758
+488,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder <v='gibt es'>gibt's</v> da nicht so Firmen die total .. also . schick sind und voll professionell und -,Oder gibt's da nicht so Firmen die total also schick sind und voll professionell und -,754.060830586,759.857868477
+489,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Irgendwelche Unternehmen,Irgendwelche Unternehmen,765.150021232,766.126364456
+490,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,775.405933581,775.662223677
+491,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Vielleicht sowas wie im Autohaus,Vielleicht sowas wie im Autohaus,777.756851448,779.05050622
+492,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Da muss man ja auch total .. gut alles erklären können und immer voll fachmännisch wirken und so,Da muss man ja auch total gut alles erklären können und immer voll fachmännisch wirken und so,779.05050622,783.9810395
+493,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und da kannst du ja so <v='einen'>'n</v> <unsure>Schluri</unsure> nicht einstellen,Und da kannst du ja so 'n Schluri nicht einstellen,784.920769852,786.360876108
+494,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne,Ne,790.074161549,790.428085967
+495,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja da musst du ja auch irgendwie den Leuten das cool präsentieren können,Ja da musst du ja auch irgendwie den Leuten das cool präsentieren können,790.623354612,792.881148317
+496,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv/>,,796.907338756,797.334488916
+497,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ne,Ne,800.654055877,800.849324521
+498,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ah,Ah,816.854587688,817.138570239
+499,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,819.764647365,820.838624911
+500,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,829.151903169,829.383784685
+501,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F äh} mir ist gerade noch irgendwas eingefallen das <v='habe'>hab'</v> ich jetzt vergessen,mir ist gerade noch irgendwas eingefallen das hab' ich jetzt vergessen,830.848199617,832.678843161
+502,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Nee weiß ich nicht mehr,Nee weiß ich nicht mehr,836.584216056,837.353086345
+503,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber so <v='ein'>'n</v> Schluri der sich irgendwo bewerben will das <v='finde'>find'</v> ich eigentlich ganz gut,Aber so 'n Schluri der sich irgendwo bewerben will das find' ich eigentlich ganz gut,839.555298112,842.398897751
+504,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Na,Na,844.375992779,844.559057134
+505,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv/>,,844.668895746,844.803142939
+506,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja ja genau dass es aber so auf verschiedenen Ebenen <v='ist'>is'</v>,Ja ja genau dass es aber so auf verschiedenen Ebenen is',848.459918942,850.571261163
+507,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Feueralarm alle müssen raus rennen,Feueralarm alle müssen raus rennen,855.610405844,856.830834873
+508,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,856.830834873,857.758360936
+509,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,858.197715387,858.783521321
+510,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Den könnte er ja auch ausversehen auslösen,Den könnte er ja auch ausversehen auslösen,858.783521321,860.38228335
+511,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,866.808305941,867.076800328
+512,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das <v='ist'>is'</v> gut,Ja das is' gut,867.076800328,867.821262036
+513,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Sowas aufbauen muss oder so,Sowas aufbauen muss oder so,868.370455099,869.566475548
+514,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber da muss man sich schon krass blöd anstellen,Aber da muss man sich schon krass blöd anstellen,874.247282775,875.964703929
+515,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='finde'>find'</v> diese: Filme: die so extrem blöd gemacht sind . wo ständig irgendwas passiert immer so <v='ein'>'n</v> Bisschen .. langweilig,Ich find' diese Filme die so extrem blöd gemacht sind wo ständig irgendwas passiert immer so 'n Bisschen langweilig,875.964703929,881.505451723
+516,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja <v='ist'>is'</v> sie schon,Ja is' sie schon,882.922176802,883.605617059
+517,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und wir machen das ja dass es cool <v='ist'>is'</v>,Und wir machen das ja dass es cool is',883.703251381,885.070131895
+518,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also es wird ja anders wirken ne,Also es wird ja anders wirken ne,885.192174798,886.400399537
+519,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,886.400399537,887.75507576
+520,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,887.75507576,888.243247372
+521,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unsure>Ist natürlich</unsure> auch gut und dann geht so die Sprenkleranlage an und das ganze Büro ist nass,Ist natürlich auch gut und dann geht so die Sprenkleranlage an und das ganze Büro ist nass,890.547501864,893.513144407
+522,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,895.114063001,895.260514485
+523,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,895.64325774,896.485353771
+524,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter>Genau</laughter>,Genau,896.485353771,896.900299641
+525,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das könnte so das Schlussding sein dass sie auf ihre Bluse guckt sowieso voll nass <v='ist'>is'</v>,Das könnte so das Schlussding sein dass sie auf ihre Bluse guckt sowieso voll nass is',897.034546834,900.305296633
+526,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,900.305296633,900.854489697
+527,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und dann sieht sie noch diesen Kakao-Kaffee-was-auch-immer-Fleck,Und dann sieht sie noch diesen Kakao-Kaffee-was-auch-immer-Fleck,900.854489697,903.490616401
+528,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oh,Oh,903.649272175,903.85674511
+529,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dann ist es zu Ende,Dann ist es zu Ende,905.016152688,905.614162913
+530,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,906.956634845,907.932978069
+531,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,907.932978069,908.343709631
+532,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,1346.28572493,1346.66405793
+533,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,1355.54389168,1355.71475175
+534,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja ich bin der <name>Holger</name>,Ja ich bin der Holger,1360.81604536,1361.92663578
+535,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F ähm},,1362.24394733,1362.79314039
+536,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1363.45217207,1363.76948362
+537,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F ähm},,1366.17034688,1366.70733565
+538,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Nein (auf meinem + auf meinem) Ausweis steht <name>Klaus</name>,Nein auf meinem auf meinem Ausweis steht Klaus,1367.09561832,1369.57308926
+539,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also das <v='ist'>is'</v> alles ein Bisschen kompliziert,Also das is' alles ein Bisschen kompliziert,1369.57308926,1370.75690541
+540,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja ja weiß ich nicht,Ja ja weiß ich nicht,1380.24169656,1381.35228698
+541,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Du hast da mehr Ahnung,Du hast da mehr Ahnung,1381.35228698,1382.37744736
+542,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(Was + Wie) machen wir das jetzt am klügsten,Was Wie machen wir das jetzt am klügsten,1382.37744736,1383.89077936
+543,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja also die Sache ist {F ähm} -,Ja also die Sache ist -,1393.17804447,1395.21616095
+544,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,1396.04605269,1396.54642859
+545,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja also auf meinem Ausweis steht das,Ja also auf meinem Ausweis steht das,1397.92766996,1399.39659598
+546,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also . du weißt ne wenn man so <v='einen'>'n</v> Ausweis anfertigen lässt dann <v='ist'>is'</v> das relativ teuer,Also du weißt ne wenn man so 'n Ausweis anfertigen lässt dann is' das relativ teuer,1399.39659598,1402.86261442
+547,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und mein Zwillingsbruder war halt der <name>Klaus</name> und ich bin der <name>Holger</name>,Und mein Zwillingsbruder war halt der Klaus und ich bin der Holger,1402.86261442,1405.535354
+548,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und der ist dann gestorben,Und der ist dann gestorben,1405.535354,1406.52390151
+549,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und dann wollten wir keinen neuen anfertigen lassen,Und dann wollten wir keinen neuen anfertigen lassen,1406.52390151,1408.13486783
+550,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und seitdem habe ich seinen weil der länger haltbar war als meiner,Und seitdem habe ich seinen weil der länger haltbar war als meiner,1408.13486783,1410.13637144
+551,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,1412.08342135,1413.43809757
+552,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Okay,Okay,1425.63890696,1425.95621851
+553,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<name>Klaus</name>,Klaus,1428.55573234,1428.88524818
+554,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,1429.75175279,1430.26433299
+555,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,1436.25654147,1436.41519724
+556,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja . wie ist das denn,Ja wie ist das denn,1439.19439258,1439.95105858
+557,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also wenn ich dann in diesem Land .. wohne,Also wenn ich dann in diesem Land wohne,1439.95105858,1441.96476648
+558,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ist es dann .. nochmal wichtig,Ist es dann nochmal wichtig,1442.24649441,1444.1503637
+559,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wird nochmal in die Akten geguckt was in den Akten steht,Wird nochmal in die Akten geguckt was in den Akten steht,1444.1503637,1445.81014718
+560,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ist es dann wichtig dass ich -,Ist es dann wichtig dass ich -,1446.07864156,1447.0427805
+561,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Okay,Okay,1448.20218808,1448.76358543
+562,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Okay,Okay,1456.12267443,1456.47659885
+563,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dann -,Dann -,1456.47659885,1456.98917904
+564,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Mhm,Mhm,1457.56278068,1457.95331797
+565,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dann <v='schreibe'>schreib'</v> ich das auch an meinen Briefkasten <v='daran'>dran</v>,Dann schreib' ich das auch an meinen Briefkasten dran,1457.95331797,1459.66961274
+566,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1459.66961274,1460.56052594
+567,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,1460.56052594,1461.75654638
+568,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughterOffset/>,,1462.34235232,1462.68407245
+569,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja,Ja,1466.11778837,1466.50832566
+570,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Müssen wir diese ganze Prozedur machen,Müssen wir diese ganze Prozedur machen,1468.33896921,1469.77907546
+571,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ist das nicht -,Ist das nicht -,1469.77907546,1470.47472001
+572,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Kannst du mich nicht einfach so <v='hinein'>rein</v> lassen,Kannst du mich nicht einfach so rein lassen,1470.47472001,1471.92703055
+573,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='meine'>mein'</v> wir kennen uns doch,Ich mein' wir kennen uns doch,1472.48842791,1473.48917971
+574,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also die Tatsache,Also die Tatsache,1510.77165511,1511.5405254
+575,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='habe'>hab'</v> ja von meinem Bruder erzählt,Ich hab' ja von meinem Bruder erzählt,1511.5405254,1512.48025575
+576,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Der war halt sehr krank,Der war halt sehr krank,1512.48025575,1513.2979432
+577,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und .. ich <v='habe'>hab'</v> Medikamente für ihn besorgt,Und ich hab' Medikamente für ihn besorgt,1513.4199861,1516.91256877
+578,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und . deswegen war ich halt einige Zeit im Gefängnis,Und deswegen war ich halt einige Zeit im Gefängnis,1517.09563312,1520.15890999
+579,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Weil . das halt unter Drogenhandel ging,Weil das halt unter Drogenhandel ging,1520.37848638,1522.40439857
+580,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber es war eigentlich nur für meinen todkranken Bruder dem ich damit helfen wollte,Aber es war eigentlich nur für meinen todkranken Bruder dem ich damit helfen wollte,1522.40439857,1525.32122395
+581,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und darum habe ich das geschmuggelt,Und darum habe ich das geschmuggelt,1525.80047515,1527.20396853
+582,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und dafür war ich dann ein paar Jahre im Gefängnis,Und dafür war ich dann ein paar Jahre im Gefängnis,1527.60671011,1529.47396653
+583,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja aber du musst doch sehen dass das <v='eine'>'ne</v> besondere Situation war,Ja aber du musst doch sehen dass das 'ne besondere Situation war,1533.93068905,1536.11525701
+584,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dass ich das ja eigentlich gar nicht wollte,Dass ich das ja eigentlich gar nicht wollte,1536.17627847,1537.43332037
+585,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das war ja nur weil ich ja nicht wusste -,Das war ja nur weil ich ja nicht wusste -,1537.43332037,1538.88563091
+586,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich war so hilflos,Ich war so hilflos,1538.88563091,1539.78874839
+587,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja aber kann man das nicht einfach wegstreichen,Ja aber kann man das nicht einfach wegstreichen,1549.26574366,1550.69364562
+588,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='meine'>mein'</v> wir kennen uns so gut,Ich mein' wir kennen uns so gut,1550.69364562,1551.64558026
+589,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv/>,,1552.12154759,1552.40224626
+590,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Kann man -,Kann man -,1554.50466807,1554.79757103
+591,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Vielleicht kann man ja auch was fälschen,Vielleicht kann man ja auch was fälschen,1557.40928916,1558.56869674
+592,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Irgendein Arbeitszeugnis,Irgendein Arbeitszeugnis,1558.56869674,1559.65487857
+593,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dass du das in die Unterlagen packst,Dass du das in die Unterlagen packst,1560.66004156,1561.97810491
+594,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dass ich irgendwie in dem Land wohnen kann,Dass ich irgendwie in dem Land wohnen kann,1561.97810491,1563.68322465
+595,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja (das + das) -,Ja das das -,1591.99801037,1592.84339027
+596,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F mh} ja also {F ähm},ja also,1594.49096946,1595.91887143
+597,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1595.91887143,1596.79758033
+598,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also ich war jetzt zweimal verheiratet,Also ich war jetzt zweimal verheiratet,1596.79758033,1598.43295523
+599,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja und also in der ersten Ehe,Ja und also in der ersten Ehe,1601.1999472,1602.67666633
+600,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich weiß gar nicht -,Ich weiß gar nicht -,1602.86188632,1603.59414374
+601,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich war jung,Ich war jung,1603.59414374,1604.05790677
+602,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<unsure>Und ich</unsure> -,Und ich -,1604.05790677,1604.3996269
+603,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja das sind doch -,Ja das sind doch -,1643.76688771,1644.43812367
+604,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(<p='Einfach'>Ei-</p> + Ist auch einfach) <v='eine'>'ne</v> superschwierige Situation,Ei- Ist auch einfach 'ne superschwierige Situation,1644.43812367,1646.76914312
+605,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also in der ersten Ehe war ich kurz verheiratet,Also in der ersten Ehe war ich kurz verheiratet,1646.76914312,1648.78285102
+606,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich war jung,Ich war jung,1648.78285102,1649.41747411
+607,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich war achtzehn,Ich war achtzehn,1649.73581399,1650.39484567
+608,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<v='Habe'>Hab'</v> sie direkt geheiratet,Hab' sie direkt geheiratet,1650.39484567,1651.45661893
+609,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Sehr naiv,Sehr naiv,1652.66484366,1653.36048821
+610,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F ähm},,1653.66108531,1654.11264405
+611,../transcriptions_annotations/r15/r15.TextGrid,B-utts,In der Ehe ist ein Kind entstanden,In der Ehe ist ein Kind entstanden,1654.11264405,1655.73581466
+612,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1655.73581466,1656.15076053
+613,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich wollte weder die Ehe noch das Kind aber . die Frau hat sich halt dafür entschieden,Ich wollte weder die Ehe noch das Kind aber die Frau hat sich halt dafür entschieden,1656.41925492,1659.62898326
+614,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1659.62898326,1660.27581065
+615,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja ich <v='habe'>hab'</v> mich dann getrennt,Ja ich hab' mich dann getrennt,1660.56420253,1661.76022298
+616,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F ähm},,1661.76022298,1662.13855598
+617,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Jetzt bin ich ja mit der zweiten Frau mit der ich verheiratet war,Jetzt bin ich ja mit der zweiten Frau mit der ich verheiratet war,1662.13855598,1666.41005758
+618,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1666.41005758,1666.78839058
+619,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F äh},,1668.37484934,1668.76538663
+620,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Nein sie weiß auch nicht dass ich dem Kind regelmäßig Geld zukommen lasse,Nein sie weiß auch nicht dass ich dem Kind regelmäßig Geld zukommen lasse,1668.76538663,1671.4503305
+621,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1671.4503305,1671.73102917
+622,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber ich finde halt dass ich diese Verantwortung dafür <v='habe'>hab'</v> und dass ich Unterhalt zahlen muss,Aber ich finde halt dass ich diese Verantwortung dafür hab' und dass ich Unterhalt zahlen muss,1671.85307208,1674.91634894
+623,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber ich hatte -,Aber ich hatte -,1675.79834172,1676.46957768
+624,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='habe'>hab'</v> halt den Moment verpasst,Ich hab' halt den Moment verpasst,1676.46957768,1677.39710375
+625,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich dachte immer sie hat Angst wenn ich ihr das erzähle,Ich dachte immer sie hat Angst wenn ich ihr das erzähle,1677.39710375,1678.89823145
+626,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das sie dann sich von mir trennt,Das sie dann sich von mir trennt,1678.89823145,1680.03425878
+627,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und . jetzt <v='ist'>is'</v> es einfach schon so verzwickt und so lange her dass ich total in <v='einer'>'ner</v> blöden Lage bin und nicht genau weiß was ich machen soll,Und jetzt is' es einfach schon so verzwickt und so lange her dass ich total in 'ner blöden Lage bin und nicht genau weiß was ich machen soll,1680.03425878,1685.90226594
+628,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und . deswegen <v='schicke'>schick'</v> ich ihr immer heimlich von <v='einem'>'nem</v> zweiten Konto Geld zu,Und deswegen schick' ich ihr immer heimlich von 'nem zweiten Konto Geld zu,1685.90226594,1688.5527535
+629,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und . bis jetzt . lief das alles auch noch ganz gut,Und bis jetzt lief das alles auch noch ganz gut,1688.5527535,1691.31092311
+630,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1691.31092311,1692.14081485
+631,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und das ist halt die Abmachung mit der Mutter . aus meiner ersten Ehe,Und das ist halt die Abmachung mit der Mutter aus meiner ersten Ehe,1692.14081485,1694.98657013
+632,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1694.98657013,1695.46253745
+633,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dass ich dann . keinen Kontakt zu dem Kind <v='habe'>hab'</v> aber wenigstens dafür sorgen kann,Dass ich dann keinen Kontakt zu dem Kind hab' aber wenigstens dafür sorgen kann,1695.46253745,1698.4159757
+634,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1698.93512364,1699.59415532
+635,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja es tut mir Leid dass ich dich in diese Lage gebracht habe,Ja es tut mir Leid dass ich dich in diese Lage gebracht habe,1713.85082212,1716.04759438
+636,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F äh},,1727.85786648,1728.468081
+637,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv/>,,1729.02947835,1729.93259583
+638,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv/>,,1730.62824038,1730.78689615
+639,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1739.50066045,1739.73254196
+640,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Hm,Hm,1741.03840102,1741.63641125
+641,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja:,Ja,1746.01098761,1746.56018068
+642,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also -,Also -,1746.56018068,1747.20700806
+643,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(Ich + Ich) <v='habe'>hab'</v> so <v='ein'>'n</v> Bisschen .. was dabei,Ich Ich hab' so 'n Bisschen was dabei,1747.59754535,1750.96583142
+644,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1752.69884065,1753.30905516
+645,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Aber das sind keine -,Aber das sind keine -,1753.30905516,1754.23658122
+646,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also ich will das nicht benutzen als Drogen,Also ich will das nicht benutzen als Drogen,1754.23658122,1755.94518187
+647,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das <v='ist'>is'</v> {F ähm} also,Das is' also,1755.94518187,1757.12899802
+648,../transcriptions_annotations/r15/r15.TextGrid,B-utts,(Das sind eigentlich + Eigentlich sind das) gar keine Drogen,Das sind eigentlich Eigentlich sind das gar keine Drogen,1757.12899802,1758.59351286
+649,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1758.59351286,1758.9230287
+650,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das ist eigentlich eher damit die anderen Blumen gut wachsen,Das ist eigentlich eher damit die anderen Blumen gut wachsen,1758.9230287,1760.95437947
+651,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Das <v='ist'>is'</v> {F äh} ganz ganz toll,Das is' ganz ganz toll,1761.14964812,1762.98029166
+652,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1763.65152763,1763.96883918
+653,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F äh},,1763.96883918,1764.15190353
+654,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja andere Blumen,Ja andere Blumen,1764.15190353,1764.6888923
+655,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich wollte gern so {F ähm} . Margeriten . und so Rosen und so,Ich wollte gern so Margeriten und so Rosen und so,1764.6888923,1768.85045539
+656,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also ich bin gern im Garten,Also ich bin gern im Garten,1769.49728278,1770.37599168
+657,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='mache'>mach'</v> da gern viel,Ich mach' da gern viel,1770.37599168,1771.31572203
+658,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und wenn man man da so <v='ein'>'n</v> Bisschen diese Pilze zwischen durch pflanzt . dann sehen die wunderschön aus,Und wenn man man da so 'n Bisschen diese Pilze zwischen durch pflanzt dann sehen die wunderschön aus,1771.31572203,1775.0014177
+659,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Sie werden größer blühen .. besser,Sie werden größer blühen besser,1775.0014177,1777.09717093
+660,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Die Blüten sind viel größer,Die Blüten sind viel größer,1777.20700954,1778.24437422
+661,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1778.37862141,1778.83018015
+662,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja aber wir kennen uns doch gut,Ja aber wir kennen uns doch gut,1783.68738964,1784.77357147
+663,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Du weißt doch dass ich das niemals nehmen würde,Du weißt doch dass ich das niemals nehmen würde,1784.77357147,1786.40894637
+664,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja (ich + ich) will da gern,Ja ich ich will da gern,1790.27648011,1791.81422069
+665,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja (ich möchte + ich möchte) unbedingt in dieses Land,Ja ich möchte ich möchte unbedingt in dieses Land,1794.86529326,1796.61050678
+666,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Dieses Land ist schön,Dieses Land ist schön,1796.61050678,1797.34276419
+667,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich möchte <v='ein'>'n</v> Bisschen mit meiner Vergangenheit abschließen,Ich möchte 'n Bisschen mit meiner Vergangenheit abschließen,1797.34276419,1799.02695625
+668,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wie bitte,Wie bitte,1800.49916522,1800.93851967
+669,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<laughter/>,,1804.85609686,1805.1734084
+670,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Nein das ist nur für meinen Garten,Nein das ist nur für meinen Garten,1805.50169703,1806.66110461
+671,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich . bin -,Ich bin -,1806.66110461,1807.33234057
+672,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='würde'>würd'</v> gern dort arbeiten und . ein Geschäft aufmachen,Ich würd' gern dort arbeiten und ein Geschäft aufmachen,1813.22701279,1816.33459665
+673,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1816.61529533,1817.14007981
+674,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F ähm},,1818.20185307,1818.56798178
+675,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Also -,Also -,1820.04901404,1820.46395991
+676,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ja aber es gibt doch . viele Dinge im Niemandsland die vielleicht wirklich . niemand hat,Ja aber es gibt doch viele Dinge im Niemandsland die vielleicht wirklich niemand hat,1823.27094667,1827.06648096
+677,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und die man {F ähm} -,Und die man -,1827.31056676,1828.61745508
+678,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1828.61745508,1829.04460524
+679,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Wo man -,Wo man -,1829.04460524,1829.39852966
+680,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich <v='würde'>würd'</v> gern als Tischlerin dort arbeiten,Ich würd' gern als Tischlerin dort arbeiten,1830.47250721,1831.97363491
+681,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Als Tischler,Als Tischler,1831.97363491,1832.70589233
+682,../transcriptions_annotations/r15/r15.TextGrid,B-utts,<nv type='breathing'/>,,1832.70589233,1833.4991712
+683,../transcriptions_annotations/r15/r15.TextGrid,B-utts,{F ähm},,1833.4991712,1833.93707191
+684,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Ich könnte . <v='eine'>'ne</v> Tischlerei aufmachen,Ich könnte 'ne Tischlerei aufmachen,1833.93707191,1835.51142509
+685,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Und . da <v='gibt es'>gibt's</v> ja viele alte Holzhäuser und viele alte Zäune die man . restaurieren könnte,Und da gibt's ja viele alte Holzhäuser und viele alte Zäune die man restaurieren könnte,1835.87755374,1841.17421484
+686,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Oder . alte . Schränke,Oder alte Schränke,1841.17421484,1843.297761
+687,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Kommoden,Kommoden,1843.297761,1843.74931967
+688,../transcriptions_annotations/r15/r15.TextGrid,B-utts,Genau damit habe ich halt Erfahrung und das würde ich da gern weiterführen,Genau damit habe ich halt Erfahrung und das würde ich da gern weiterführen,1848.12615092,1850.59458011
+689,../transcriptions_annotations/r15/r15.TextGrid,Part,film_script,film_script,12.6732128505,908.343709631
+690,../transcriptions_annotations/r15/r15.TextGrid,Part,border_control,border_control,1341.96178823,1850.59458011
+691,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,37.1199775155,37.8278263527
+692,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,103.882191184,105.346706019
+693,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,160.055494655,161.385762297
+694,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,161.52000949,162.056998263
+695,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,167.548928897,168.171347702
+696,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,186.711107827,187.126053697
+697,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,204.567942215,207.167456049
+698,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,211.103789524,213.395521132
+699,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,214.838302354,215.765828417
+700,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,217.498837639,219.134212539
+701,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,219.634588441,220.049534311
+702,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,240.567579037,241.226610713
+703,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,241.226610713,241.580535132
+704,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,259.274295153,260.018756861
+705,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,285.607457154,286.559391797
+706,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Stimmt</laughter>,Stimmt,286.559391797,287.401487828
+707,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,308.511538866,310.390999571
+708,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Genau</laughter>,Genau,310.390999571,310.830354022
+709,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,312.221643116,312.758631889
+710,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,327.327155151,328.401132697
+711,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Ach ja genau</laughter>,Ach ja genau,331.696291077,333.148601623
+712,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,333.197418784,333.624568944
+713,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,354.878606291,355.562046548
+714,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Ich</laughter>,Ich,355.562046548,355.765020788
+715,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,387.920943687,388.531158201
+716,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,388.531158201,389.116964136
+717,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>So quasi</laughter>,So quasi,408.330727511,409.197232122
+718,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Ja genau</laughter>,Ja genau,441.699014133,442.516701583
+719,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,442.516701583,442.895034582
+720,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,442.895034582,443.248959001
+721,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,445.787451382,446.434278768
+722,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,454.837395461,455.60626575
+723,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,456.152076888,456.322936952
+724,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,456.579227049,457.04299008
+725,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>passiert sind</laughter>,passiert sind,495.486217136,496.722019314
+726,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,501.940943549,502.941695353
+727,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,504.409493136,504.836643297
+728,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,505.495674973,506.057072326
+729,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,526.986005945,527.876919136
+730,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,545.56186513,545.891380968
+731,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,563.403210428,564.428370812
+732,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,564.428370812,564.782295231
+733,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,570.084396733,571.731975923
+734,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,573.770092403,574.685414175
+735,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,587.926870266,590.13584681
+736,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,590.56299697,592.283801902
+737,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,592.283801902,592.869607836
+738,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>machen</laughter>,machen,621.425582191,621.922082147
+739,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,621.922082147,623.838155724
+740,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,623.838155724,624.350735916
+741,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,630.928747556,632.039337973
+742,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Genau</laughter>,Genau,632.039337973,632.564122456
+743,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,632.832616842,633.369605615
+744,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,660.99859285,662.414290524
+745,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,663.04891362,664.659879939
+746,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,664.659879939,665.148051551
+747,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,670.617813918,673.339370654
+748,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,674.340122458,674.950336973
+749,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,679.750935265,680.77609565
+750,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,681.996524679,682.545717743
+751,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,727.220611134,728.013890004
+752,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,728.819373163,729.588243452
+753,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,729.966576451,730.820876772
+754,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,748.550129767,749.270182894
+755,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,819.764647365,820.838624911
+756,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,856.830834873,857.758360936
+757,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,858.197715387,858.783521321
+758,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,886.400399537,887.75507576
+759,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,887.75507576,888.243247372
+760,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,895.114063001,895.260514485
+761,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,895.64325774,896.485353771
+762,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter>Genau</laughter/>,Genau,896.485353771,896.900299641
+763,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,906.956634845,907.932978069
+764,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,907.932978069,908.343709631
+765,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,1396.04605269,1396.54642859
+766,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,1412.08342135,1413.43809757
+767,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,1429.75175279,1430.26433299
+768,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,1460.56052594,1461.75654638
+769,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughterOffset/>,,1462.34235232,1462.68407245
+770,../transcriptions_annotations/r15/r15.TextGrid,B-laughter,<laughter/>,,1804.85609686,1805.1734084
+771,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,37.2420204185,37.6697220746
+772,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,37.6697220746,38.1573421907
+773,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,80.0062242998,80.8554657025
+774,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Das</laughter>,Das,92.8030519678,93.1222859643
+775,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Und</laughter> e,Und e,98.6421422432,99.1659321564
+776,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,103.883939949,105.830469228
+777,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Und</laughter>,Und,105.830469228,106.14858369
+778,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>sind</laughter>,sind,113.821715545,114.041889242
+779,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,143.723080362,144.772649327
+780,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,144.772649327,145.260820939
+781,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,160.714200944,161.469082191
+782,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>gut</laughter>,gut,186.380040312,186.662290666
+783,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,186.662290666,186.820946439
+784,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Lassen wir das <unsure>mal</unsure></laughter>,Lassen wir das mal,186.820946439,187.67524676
+785,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,187.67524676,188.309869856
+786,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>wirklich (in + so in) ihren Roben</laughter>,wirklich in so in ihren Roben,205.005845191,206.452700914
+787,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,"<laughter>Und da <v=""darauf"">drauf</v> war so <v=""ein"">'n></v> Totenkopf</laughter>",Und da darauf war so ein Totenkopf,212.653734391,214.069432066
+788,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Und irgendwie</laughter>,Und irgendwie,214.069432066,214.621212795
+789,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,"<laughterOffset/> <v=""habe"">hab</v> ich gerade vor meinem Auge auch so <laughter><unclear/> mit so <v=""einem"">'nem</v> Totenkopfding</laughter>",habe ich gerade vor meinem Auge auch so mit so einem Totenkopfding,216.571322683,218.39561903
+790,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,219.622301056,220.049534311
+791,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,257.199565802,258.017253252
+792,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,259.111114396,260.014231878
+793,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,260.136274781,260.453586329
+794,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,285.985790153,286.815681893
+795,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,287.145197731,287.413692118
+796,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Ende</laughter>,Ende,306.990173861,307.367614484
+797,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>(von + von) <unclear/></laughter>,von von,308.751563437,309.768580766
+798,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,309.768580766,310.952396925
+799,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,312.221643116,312.734223308
+800,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,312.734223308,313.588523629
+801,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,326.8878007,327.595649538
+802,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,327.986186827,328.413336987
+803,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,328.413336987,328.901508599
+804,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,- al:s {F äh} Kati mal . Lisa nachgemacht hat und sie dann direkt <laughter>hinter ihr stand</laughter>,- als Kati mal Lisa nachgemacht hat und sie dann direkt hinter ihr stand,331.929773682,333.173010203
+805,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,333.246235945,333.673386105
+806,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,351.53914091,352.076129683
+807,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Ist jetzt nicht so megalustig</laughter>,Ist jetzt nicht so megalustig,353.365274295,355.23253071
+808,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Aber gut</laughter>,Aber gut,355.23253071,355.757315193
+809,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,355.757315193,356.233282514
+810,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,388.870001701,389.34180248
+811,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Auftritt irgendwie</laughter> -,Auftritt irgendwie -,389.34180248,390.386210327
+812,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,390.386210327,390.898790519
+813,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,407.195728514,407.537448642
+814,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Genau sozusagen</laughter>,Genau sozusagen,408.428361834,409.709812315
+815,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,409.709812315,410.34443541
+816,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>so</laughter>,so,441.886098919,442.162777164
+817,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Oder</laughter>,Oder,442.162777164,442.452259854
+818,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,443.301501257,443.871377806
+819,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,444.091055031,444.396162289
+820,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,445.872881415,446.434278768
+821,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,446.568525961,446.93465467
+822,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,454.678739688,455.3832066
+823,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,471.155460942,471.814492618
+824,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,472.292616505,472.927239601
+825,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,472.927239601,473.415411212
+826,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,486.179870724,486.753472368
+827,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Ist</laughter/> die Frage wie du das kaschieren möchtest,Ist die Frage wie du das kaschieren möchtest,487.789207883,488.072288351
+828,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,489.383959751,490.213851491
+829,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,495.611428897,496.758632185
+830,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,496.831857927,497.161373765
+831,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,501.940943549,503.237881268
+832,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,505.312610618,505.825190811
+833,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>{F ähm}</laughter>,,527.571811879,527.876919136
+834,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,527.876919136,528.4261122
+835,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,528.889875231,529.28041252
+836,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,536.870253873,537.285199743
+837,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Genau</laughter> und kommt dann -,Genau und kommt dann -,537.456059807,538.493424482
+838,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,543.533796375,544.632182501
+839,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,545.342187904,545.744929484
+840,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>irgendwie oder</laughter>,irgendwie oder,563.651553133,564.403962232
+841,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,564.403962232,564.74568236
+842,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,570.413912571,572.085900342
+843,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,572.281168987,572.757136308
+844,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,584.741550499,585.241926401
+845,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,588.231977523,588.91541778
+846,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Ich weiß nicht was du auf der Damentoilette machst</laughter>,Ich weiß nicht was du auf der Damentoilette machst,588.91541778,590.636222712
+847,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,590.636222712,591.173211485
+848,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,621.299663342,622.092942211
+849,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Keine Ahnung</laughter>,Keine Ahnung,622.092942211,622.996059693
+850,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Zu Hause</laughter>,Zu Hause,622.996059693,623.594069918
+851,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,623.594069918,624.167671562
+852,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>was</laughter>,was,631.655511106,631.953907941
+853,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,632.673961068,632.905842584
+854,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,663.098757259,663.416068807
+855,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>er hat die ganze Zeit diese Nudel im Schnurrbart hängen</laughter>,er hat die ganze Zeit diese Nudel im Schnurrbart hängen,671.258986574,673.717703653
+856,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,673.717703653,674.169262394
+857,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>und er versucht</laughter>,und er versucht,680.223201381,681.040989398
+858,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,682.36203158,682.613658663
+859,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,727.013138199,727.891847101
+860,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter><unsure>Zwischen den beiden</unsure></laughter>,Zwischen den beiden,727.891847101,728.68512597
+861,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,728.68512597,729.600447742
+862,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,729.966576451,730.418135192
+863,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,752.479911242,752.80942708
+864,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Weil ich habe <unclear/></laughter>,Weil ich habe,819.386314366,820.679969138
+865,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,856.965082067,857.953629581
+866,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,857.953629581,858.710295579
+867,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,886.790936826,887.718462889
+868,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,888.047978727,888.707010403
+869,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,893.549757277,893.928090277
+870,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>Und dann ist es auch egal mit ihrer Bluse</laughter>,Und dann ist es auch egal mit ihrer Bluse,894.294218986,895.88293329
+871,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,895.88293329,897.066749449
+872,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,897.066749449,897.528355914
+873,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>auf uns</laughter>,auf uns,906.686806635,907.627870811
+874,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,907.98179523,908.343709631
+875,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1405.35228964,1406.32863287
+876,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1411.52202399,1413.7798177
+877,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,1414.1581507,1414.76836521
+878,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1415.21992395,1415.74470843
+879,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,1416.31831008,1416.80648169
+880,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1419.04314976,1419.45809563
+881,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1429.55648415,1430.36196731
+882,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,1432.25353425,1432.6928887
+883,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>kommt</laughter>,kommt,1738.18637247,1738.62671986
+884,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1752.90631358,1753.8948611
+885,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,1754.5172799,1755.42039738
+886,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1763.70034479,1764.89636524
+887,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,1764.89636524,1765.56760121
+888,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter>pflanzen oder was</laughter>,pflanzen oder was,1799.20541462,1800.41373519
+889,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughterOffset/>,,1800.41373519,1800.95072396
+890,../transcriptions_annotations/r15/r15.TextGrid,A-laughter,<laughter/>,,1804.79507541,1805.18561269
+891,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,12.6732128505,13.0697719279
+892,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,13.0697719279,13.6311692815
+893,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,13.6311692815,14.1803623449
+894,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Habe'>Hab'</v> ich dir erzählt was ich mit <name>Vivi</name> am Sonntag gemacht <v='habe'>hab'</v>,Hab' ich dir erzählt was ich mit Vivi am Sonntag gemacht hab',14.1803623449,16.6456289848
+895,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,17.0803766453,17.3524195483
+896,../transcriptions_annotations/r15/r15.TextGrid,A-utts,((<name>Vivi</name> {F äh} + die Freundin {F äh}) + (der + der) Bruder) (hat <v='einen'>'nen</v> {f ähm} + ist bei <v='einer'>'ner</v>) Metal-Band und die haben <v='ein'>'nen</v> Video gedreht . für das,Vivi die Freundin der der Bruder hat 'nen ist bei 'ner Metal-Band und die haben 'nen Video gedreht für das,17.3524195483,24.0393319116
+897,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F äh} das war hier <v='auf dem'>auf'm</v> Sportplatz,Und das war hier auf'm Sportplatz,24.0393319116,26.1506741329
+898,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F äh} die war halt relativ berühmt deswegen war das auch so <v='ein'>'n</v> Typ von <name>$R$T$L</name> der das halt {F äh} <nv type='breathing'/> praktisch gedreht hat,Und die war halt relativ berühmt deswegen war das auch so 'n Typ von RTL der das halt praktisch gedreht hat,26.1506741329,31.9731498619
+899,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F ähm} es <unsure>war <v='ein'>'n</v></unsure> {F äh} -,Und es war 'n -,31.9731498619,33.8159976967
+900,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau,Genau,35.0930369953,35.410348543
+901,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also,Also,35.410348543,35.8374987034
+902,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich <v='kenne'>kenn'</v> mich ja damit nicht aus,Ich kenn' mich ja damit nicht aus,35.9839501869,37.1067448942
+903,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<p='Aber'>Ab-</p>,Ab-,37.1067448942,37.2420204185
+904,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/><laughterOffset/>,,37.2420204185,38.1573421907
+905,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm} <nv type='breathing'/>,,38.1573421907,38.9018038988
+906,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann {F ähm} hatten die halt (von + {F äh} von) diesen Footballspielern und diese Cheerleader,Und dann hatten die halt von von diesen Footballspielern und diese Cheerleader,39.0315400057,43.9620732856
+907,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<name>Wildcats</name>,Wildcats,43.9620732856,44.5112663489
+908,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hast du das schon mal gehört irgendwie,Hast du das schon mal gehört irgendwie,44.5112663489,45.5974481853
+909,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also war mir jedenfalls so <v='ein'>'n</v> Begriff,Also war mir jedenfalls so 'n Begriff,45.5974481853,46.7568557635
+910,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/> Hatten die die halt alle da,Hatten die die halt alle da,46.7568557635,48.4044349536
+911,../transcriptions_annotations/r15/r15.TextGrid,A-utts,War so <v='eine'>'ne</v> riesengroße Szene,War so 'ne riesengroße Szene,48.4044349536,49.7957240474
+912,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann haben die halt ganz viele Filmsequenzen gedreht,Dann haben die halt ganz viele Filmsequenzen gedreht,50.4601924578,52.7912119044
+913,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/> {F ähm},,52.7912119044,54.0970709662
+914,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und . unter anderem war halt eine Szene,Und unter anderem war halt eine Szene,54.5242211266,57.1847564113
+915,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also wir . haben halt so Statisten gespielt,Also wir haben halt so Statisten gespielt,57.1847564113,59.3327115035
+916,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wir waren halt ganz viele Leute die dann irgendwie teilweise halt irgendwie laufen mussten,Wir waren halt ganz viele Leute die dann irgendwie teilweise halt irgendwie laufen mussten,59.6232608764,62.8818063856
+917,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann haben die auch mit so <v='einer'>'ner</v> Drone von oben gefilmt und so,Und dann haben die auch mit so 'ner Drone von oben gefilmt und so,62.8818063856,65.3104601547
+918,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/> <nv/> {F äh},,65.3104601547,66.6285235067
+919,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Alles relativ professionell und {F ähm} -,Alles relativ professionell und -,66.6285235067,68.6910485669
+920,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann <v='gab es'>gab's</v> halt auch eine Szene wo -,Dann gab's halt auch eine Szene wo -,69.5940652186,71.4857302146
+921,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also der Sportplatz <v='ist'>is'</v> so gerade und dann <v='geht es'>geht's</v> so <v='einen'>'n</v> Hügel hoch,Also der Sportplatz is' so gerade und dann geht's so 'n Hügel hoch,71.4857302146,74.1706740799
+922,../transcriptions_annotations/r15/r15.TextGrid,A-utts,An der Seite,An der Seite,74.4269641761,75.0859958521
+923,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann {F äh} ((hatte + {F ähm} hatten) die + oder hatte er) praktisch so <v='eine'>'ne</v> Idee wie in so <laughter/> alten {F äh} <nv type='breathing'/> Kampfszenen oder so bei Herr der Ringe oder so dass die dann ja (<p='manchmal'>manch-</p> + manchmal) irgendwie so <v='ein'>'n</v> Heer . unten so <v='einen'>'n</v> Kamm <v='herunter'>runter</v> läuft praktisch,Und dann hatte hatten die oder hatte er praktisch so 'ne Idee wie in so alten Kampfszenen oder so bei Herr der Ringe oder so dass die dann ja manch- manchmal irgendwie so 'n Heer unten so 'n Kamm runter läuft praktisch,75.4203985287,88.6780018476
+924,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann {F ähm} <nv type='breathing'/> praktisch auf den Kameramann zu,Und dann praktisch auf den Kameramann zu,88.6780018476,91.4971929061
+925,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und das haben wir dann halt auch gemacht,Und das haben wir dann halt auch gemacht,91.4971929061,92.7176219358
+926,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Das</laughter> war aber (so richtig {F ähm} <nv type='breathing'/> . + also relativ) bewachsen dieses Ding,Das war aber so richtig also relativ bewachsen dieses Ding,92.8030519678,98.3071868917
+927,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Und</laughter> es waren ja irgendwie dreiundzwanzig Grad irgendwie alle schön im Sommeroutfit,Und es waren ja irgendwie dreiundzwanzig Grad irgendwie alle schön im Sommeroutfit,98.6421422432,102.437676525
+928,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/> Ich nicht aber <name>Vivi</name> <laughter/>,Ich nicht aber Vivi,102.437676525,105.830469228
+929,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Und</laughter> dann sind wir (den + <nv type='breathing'/> den) Berg praktisch runtergerannt und sie meinte noch so ja: {F ähm} . sollen wir das wirklich machen ich so ja deswegen sind wir doch jetzt hier,Und dann sind wir den den Berg praktisch runtergerannt und sie meinte noch so ja sollen wir das wirklich machen ich so ja deswegen sind wir doch jetzt hier,105.830469228,113.585632154
+930,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann <laughter>sind</laughter> wir runtergerannt und dann hat sie sich halt voll auf die Klappe gelegt <nv type='breathing'/>,Dann sind wir runtergerannt und dann hat sie sich halt voll auf die Klappe gelegt,113.585632154,116.809717652
+931,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das war jetzt so das was mir spontan dazu eingefallen ist,Das war jetzt so das was mir spontan dazu eingefallen ist,116.809717652,119.299392873
+932,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dass man . <nv type='breathing'/> das als . Szene irgendwie verwerten könnten,Dass man das als Szene irgendwie verwerten könnten,119.299392873,123.461055864
+933,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hm:,Hm,129.794987256,130.148911675
+934,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich meine man könnte das ja -,Ich meine man könnte das ja -,131.290390724,132.791518431
+935,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja man könnte das ja aufgreifen mit diesem Heer praktisch,Ja man könnte das ja aufgreifen mit diesem Heer praktisch,133.255281462,135.671730941
+936,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also dass es . wie so <v='ein'>'n</v> Kriegsfilm ist,Also dass es wie so 'n Kriegsfilm ist,135.671730941,137.514578776
+937,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder eigentlich so <v='ein'>'n</v> {F äh} -,Oder eigentlich so 'n -,137.514578776,138.796029257
+938,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau und dann fällt .. irgendjemand auf die Klappe,Genau und dann fällt irgendjemand auf die Klappe,140.688723164,143.149478718
+939,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,143.723080362,144.772649327
+940,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,144.772649327,145.260820939
+941,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja oder halt {F ähm} -,Ja oder halt -,145.260820939,146.442375996
+942,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich meine man könnte das halt auch so <v='ein'>'n</v> Bisschen so machen dass es halt alles so richtig .. irgendwelche Ritter sind oder <unsure>so</unsure> die halt in richtigen {F äh} fetten Anzügen dann da <v='herunter'>runter</v> laufen und alle total gefährlich aussehen,Ich meine man könnte das halt auch so 'n Bisschen so machen dass es halt alles so richtig irgendwelche Ritter sind oder so die halt in richtigen fetten Anzügen dann da runter laufen und alle total gefährlich aussehen,146.442375996,157.671357885
+943,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann kommt erst (so <v='eine'>'ne</v> + so <v='eine'>'ne</v>) Musik (die so ganz <laughter/> + die so ganz) düster ist irgendwie,Und dann kommt erst so 'ne so 'ne Musik die so ganz die so ganz düster ist irgendwie,157.858722401,163.704577453
+944,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann laufen die da <v='herunter'>runter</v> und sind irgendwie so -,Und dann laufen die da runter und sind irgendwie so -,163.704577453,165.852532546
+945,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also es ist so übelst gefährlich,Also es ist so übelst gefährlich,165.852532546,167.158391607
+946,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,167.353660252,167.707584671
+947,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann -,Und dann -,167.707584671,168.244573444
+948,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder wirkt übelst gefährlich,Oder wirkt übelst gefährlich,168.244573444,169.33075528
+949,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann {F ähm} ... kommt {F äh},Und dann kommt,169.33075528,172.399471658
+950,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja und dann fliegt halt der eine auf die Klappe,Ja und dann fliegt halt der eine auf die Klappe,172.88764327,174.339953815
+951,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder ist das jetzt zu: -,Oder ist das jetzt zu -,175.672376171,176.685332265
+952,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Ein'>'N</v> Bisschen (wie + wie),'N Bisschen wie wie,181.206972903,182.378584771
+953,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wie heißt das nochmal mit <name>Brian</name>,Wie heißt das nochmal mit Brian,182.586057706,183.928529639
+954,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<name>Das Leben des Brian</name>,Das Leben des Brian,183.928529639,185.112345798
+955,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<unclear/>,,185.112345798,185.698151732
+956,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay <laughter>gut</laughter>,Okay gut,186.125301893,186.662290666
+957,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,186.662290666,186.820946439
+958,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Lassen wir das <unsure>mal</unsure></laughter>,Lassen wir das mal,186.820946439,187.67524676
+959,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,187.67524676,188.309869856
+960,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,190.019499755,190.784987192
+961,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,192.76208222,193.103802348
+962,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,197.131218146,197.497346855
+963,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja das ist ganz lustig,Ja das ist ganz lustig,198.52250724,199.608689076
+964,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='ist'>is'</v> vor allen Dingen (ganz + ganz) lustig weil da waren halt auch wirklich dann so teilweise so Metal-Fans ne die dann auch <laughter/>wirklich (in + so in) ihren Roben</laughter> angezogen waren,Das is' vor allen Dingen ganz ganz lustig weil da waren halt auch wirklich dann so teilweise so Metal-Fans ne die dann auch wirklich in so in ihren Roben angezogen waren,200.24762345,207.533584758
+965,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und einer hatte auch so <v='einen'>'n</v> Stock . der irgendwie,Und einer hatte auch so 'n Stock der irgendwie,207.533584758,210.017607687
+966,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ne irgendwie so <v='ein'>'n></v> großer brauner Holzstock,Ne irgendwie so 'n> großer brauner Holzstock,210.017607687,212.653734391
+967,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Und da <v='darauf'>drauf</v> war so <v='ein'>'n></v> Totenkopf</laughter>,Und da drauf war so 'n> Totenkopf,212.653734391,214.069432066
+968,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Und irgendwie</laughter> <laughterOffset/> <v='habe'>hab</v> ich gerade vor meinem Auge auch so <laughter><unclear/> mit so <v='einem'>'nem</v> Totenkopfding</laughter> und der fliegt dann auf die Klappe <laughterOffset/>,Und irgendwie hab ich gerade vor meinem Auge auch so mit so 'nem Totenkopfding und der fliegt dann auf die Klappe,214.069432066,220.000617246
+969,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='fände'>fänd</v> ich irgendwie -,Das fänd ich irgendwie -,220.000617246,220.696261793
+970,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also ich weiß nicht ob ich das jetzt nur lustig finde (weil . + weil) <v='ich es'>ich's</v> miterlebt <v='habe'>hab'</v> oder <nv type='breathing'/> ob -,Also ich weiß nicht ob ich das jetzt nur lustig finde weil weil ich's miterlebt hab' oder ob -,220.696261793,225.224053493
+971,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Fändest du das auch lustig,Fändest du das auch lustig,226.468891103,227.335395714
+972,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hm:,Hm,232.728464813,233.045776361
+973,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber wann . rennt man normalerweise so <v='einen'>'n</v> . Berg <v='herunter'>runter</v>,Aber wann rennt man normalerweise so 'n Berg runter,233.045776361,235.832314402
+974,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut man könnte das mit den Cheerleadern auch irgendwie aufgreifen,Gut man könnte das mit den Cheerleadern auch irgendwie aufgreifen,236.711023303,238.834569815
+975,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das man irgendwie sagt so Cheerleader laufen so schön <unclear/> locker flockig da <v='herunter'>runter</v>,Das man irgendwie sagt so Cheerleader laufen so schön locker flockig da runter,238.834569815,242.971824226
+976,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,244.489463796,244.892205375
+977,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay das . <unsure>ist</unsure> jetzt <v='ein'>'n</v> High-School-Musical-mäßig aber -,Okay das ist jetzt 'n High-School-Musical-mäßig aber -,245.734301406,248.541288174
+978,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Könnte man ja auch machen,Könnte man ja auch machen,249.529835688,250.567200363
+979,../transcriptions_annotations/r15/r15.TextGrid,A-utts,"Ist jetzt wie <name>""Upps! – Die Pannenshow""</name>","Ist jetzt wie ""Upps! – Die Pannenshow""",256.040158224,257.199565802
+980,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,257.199565802,258.017253252
+981,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,259.111114396,260.014231878
+982,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,260.136274781,260.453586329
+983,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,260.636650684,260.978370812
+984,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wir können uns ja noch was anderes überlegen,Wir können uns ja noch was anderes überlegen,261.198048037,262.601541421
+985,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Fällt dir noch irgendwas anderes ein,Fällt dir noch irgendwas anderes ein,262.97987442,264.053851967
+986,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Auf die Klappe fliegen ist lustig,Auf die Klappe fliegen ist lustig,266.732029202,268.220952619
+987,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Was <v='gibt es'>gibt's</v> denn noch,Was gibt's denn noch,268.550468457,269.1240701
+988,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,270.198047647,271.015735096
+989,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,271.333046644,272.346002739
+990,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Vielleicht wenn irgendjemand sich verplappert in <v='einem'>'nem</v> Gespräch,Vielleicht wenn irgendjemand sich verplappert in 'nem Gespräch,274.756814749,276.807135519
+991,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also wenn man <v='ein'>'n<v> Gespräch hat und dann {F ähm} -,Also wenn man 'n Gespräch hat und dann -,276.807135519,278.91847774
+992,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau,Genau,280.55385264,280.993207091
+993,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Sowas zum Beispiel,Sowas zum Beispiel,281.237292897,282.018367476
+994,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Haben wir nicht irgendwie sowas schon mal erlebt,Haben wir nicht irgendwie sowas schon mal erlebt,282.018367476,283.531699473
+995,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Bestimmt,Bestimmt,284.26395689,284.703311341
+996,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,285.985790153,286.815681893
+997,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,287.145197731,287.413692118
+998,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dass man das irgendwie verplappert oder so,Dass man das irgendwie verplappert oder so,287.413692118,289.183314211
+999,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,289.183314211,289.659281532
+1000,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja das ist auch gut,Ja das ist auch gut,305.301810518,305.997455065
+1001,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann am <laughter>Ende</laughter> (ist + ist) es doch die Fleischwurst <laughter>(von + von) <unclear/></laughter>,Und dann am Ende ist ist es doch die Fleischwurst von von,306.473422386,309.768580766
+1002,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>,,309.768580766,310.952396925
+1003,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Auf vegetarisch gemacht,Auf vegetarisch gemacht,310.952396925,312.221643116
+1004,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>,,312.221643116,312.734223308
+1005,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,312.734223308,313.588523629
+1006,../transcriptions_annotations/r15/r15.TextGrid,A-utts,"Ja, <v='finde'>find'</v> ich auch nicht schlecht",Ja find' ich auch nicht schlecht,314.041110701,314.773368119
+1007,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich hatte gerade irgendwie noch <v='eine'>'ne</v> Idee aber ich <v='habe es'>hab's</v> gerade wieder vergessen,Ich hatte gerade irgendwie noch 'ne Idee aber ich hab's gerade wieder vergessen,314.773368119,317.555946307
+1008,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,317.787827822,318.483472369
+1009,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mir fallen irgendwie nur Sachen aus <v='dem'>'m</v> Leben ein,Mir fallen irgendwie nur Sachen aus 'm Leben ein,323.046649728,324.76745466
+1010,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Die ich dann so -,Die ich dann so -,324.959522834,325.61855451
+1011,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mir fällt das auch ein als -,Mir fällt das auch ein als -,326.009091799,326.8878007
+1012,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,326.8878007,327.595649538
+1013,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,327.986186827,328.413336987
+1014,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,328.413336987,328.901508599
+1015,../transcriptions_annotations/r15/r15.TextGrid,A-utts,- al:s {F äh} <name>Kati</name> mal . <name>Lisa</name> nachgemacht hat und sie dann direkt <laughter>hinter ihr stand</laughter>,- als Kati mal Lisa nachgemacht hat und sie dann direkt hinter ihr stand,329.060164373,333.173010203
+1016,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,333.246235945,333.673386105
+1017,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='ist'>is'</v> auch lustig,Das is' auch lustig,333.783224718,334.710750781
+1018,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also ( wenn man irgendjemanden nachmachen will {F äh} + wenn man irgendjemanden nachmachen will ) oder so und dann derjenige direkt neben ( genau + ) da direkt neben steht,Also wenn man irgendjemanden nachmachen will wenn man irgendjemanden nachmachen will oder so und dann derjenige direkt neben genau da direkt neben steht,335.326404809,342.136398795
+1019,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay das ist auch ziemlich peinlich,Okay das ist auch ziemlich peinlich,342.697796148,344.064676661
+1020,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='wäre'>wär'</v> auch nicht <p='schlecht'>schl-</p>,Das wär' auch nicht schl-,344.064676661,344.82134266
+1021,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja man könnte so <v='einen'>'n</v> Schulfilm machen,Ja man könnte so 'n Schulfilm machen,347.743606628,349.110487141
+1022,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Irgendwie so <v='ein'>'n</v> Bisschen -,Irgendwie so 'n Bisschen -,349.110487141,350.025808913
+1023,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,351.53914091,352.076129683
+1024,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Ist jetzt nicht so megalustig</laughter>,Ist jetzt nicht so megalustig,353.365274295,355.23253071
+1025,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Aber gut</laughter>,Aber gut,355.23253071,355.757315193
+1026,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,355.757315193,356.233282514
+1027,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay gut,Okay gut,356.233282514,356.733658417
+1028,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wenn <v='du es'>du's</v> peinlich findest,Wenn du's peinlich findest,356.733658417,357.661184479
+1029,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ah was <v='gibt es'>gibt's</v> denn noch für peinliche Sachen,Ah was gibt's denn noch für peinliche Sachen,358.132640714,359.743607034
+1030,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hm:,Hm,360.060918581,361.134896127
+1031,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ziemlich lustig,Ziemlich lustig,368.89231367,369.917474055
+1032,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,370.039417054,370.332320021
+1033,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja (am + am) Besten ist es ja so <v='einen'>'n</v> Kontrast zu schaffen ne,Ja am am Besten ist es ja so 'n Kontrast zu schaffen ne,370.332320021,372.992855306
+1034,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also (ne + ne) Situation zu schaffen wo man eigentlich . wirklich . nicht . stolpern sollte oder eigentlich so förmlich auftreten sollte,Also ne ne Situation zu schaffen wo man eigentlich wirklich nicht stolpern sollte oder eigentlich so förmlich auftreten sollte,372.992855306,380.705966773
+1035,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja oder <v='eine'>'ne</v> berühmte Persönlichkeit oder sowas,Ja oder 'ne berühmte Persönlichkeit oder sowas,382.566643098,384.735623919
+1036,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Von der man das dann nicht erwartet,Von der man das dann nicht erwartet,384.735623919,385.99266582
+1037,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also sowas (wie + wie) die Queen oder so,Also sowas wie wie die Queen oder so,385.99266582,387.884330816
+1038,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,387.884330816,388.226050944
+1039,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das die dann bei so <v='einem'>'nem</v> <laughter/> <laughter>Auftritt irgendwie</laughter> -,Das die dann bei so 'nem Auftritt irgendwie -,388.226050944,390.386210327
+1040,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,390.386210327,390.898790519
+1041,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau,Genau,390.898790519,391.435779292
+1042,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,391.654227452,391.873904678
+1043,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,391.873904678,392.203420516
+1044,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder man . modelt sowas um,Oder man modelt sowas um,392.203420516,393.533688158
+1045,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Kennst du diese Szene mit <name>Mister Bean</name>,Kennst du diese Szene mit Mister Bean,393.533688158,395.25449309
+1046,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wo {F ähm} er der Queen praktisch Hallo sagt,Wo er der Queen praktisch Hallo sagt,395.413148864,398.073684148
+1047,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,399.855510532,400.17282208
+1048,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Man könnte praktisch so <v='eine'>'ne</v> Szene wo eigentlich <name>Mister Bean</name> ... {F äh} lustig sein sollte dann die Queen stolpern lassen,Man könnte praktisch so 'ne Szene wo eigentlich Mister Bean lustig sein sollte dann die Queen stolpern lassen,400.17282208,406.024116645
+1049,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder ist das blöd,Oder ist das blöd,406.390245354,407.195728514
+1050,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,407.195728514,407.537448642
+1051,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Genau sozusagen</laughter>,Genau sozusagen,408.428361834,409.709812315
+1052,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,409.709812315,410.34443541
+1053,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,411.125509989,411.442821537
+1054,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich <v='finde'>find'</v> das waren ja schon ziemlich viele Ideen,Ich find' das waren ja schon ziemlich viele Ideen,413.612830689,415.187184137
+1055,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,415.187184137,415.797398652
+1056,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,416.065893039,416.737129005
+1057,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Was <v='gibt es'>gibt's</v> denn noch,Was gibt's denn noch,418.506751098,419.226804226
+1058,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,421.118469222,421.521210801
+1059,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder irgendwas mit {F ähm} -,Oder irgendwas mit -,421.521210801,422.936908476
+1060,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder sowas mit <v='einem'>'nem</v>,Oder sowas mit 'nem,424.749710262,426.079977904
+1061,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und wo dann {F äh} .. er irgendwie <v='einen'>'n</v> Hund mit hat oder so der Hund -,Und wo dann er irgendwie 'n Hund mit hat oder so der Hund -,426.763418161,429.973146509
+1062,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Der Hund ... benimmt sich total daneben oder so,Der Hund benimmt sich total daneben oder so,429.973146509,433.801909884
+1063,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und er versucht es die ganze Zeit zu retten,Und er versucht es die ganze Zeit zu retten,435.146537456,436.745299485
+1064,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau,Genau,439.967232123,440.540833767
+1065,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder pinkelt dagegen oder <laughter>so</laughter>,Oder pinkelt dagegen oder so,440.832509522,442.162777164
+1066,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Oder</laughter> sabbert total,Oder sabbert total,442.162777164,443.358797613
+1067,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,443.358797613,443.871377806
+1068,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,444.091055031,444.396162289
+1069,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau dann sitzen sie -,Genau dann sitzen sie -,444.396162289,445.348096932
+1070,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,445.872881415,446.434278768
+1071,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,446.568525961,446.93465467
+1072,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder (ich <v='habe'>hab</v> mal + ich saß mal) im {F äh} in <v='einem'>'nem</v> {F mh} Cafe und dann hat der Mops . unter dem Tisch . unter dem Nachbartisch total geschnarcht,Oder ich hab mal ich saß mal im in 'nem Cafe und dann hat der Mops unter dem Tisch unter dem Nachbartisch total geschnarcht,446.93465467,454.678739688
+1073,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,454.678739688,455.3832066
+1074,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wie so <v='ein'>'n</v> Mensch,Wie so 'n Mensch,455.3832066,456.22530263
+1075,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='wäre'>wär'</v> auch lustig wenn man bei so <v='einem'>'nem</v> Date ist und der eine bringt seinen Mops mit,Das wär' auch lustig wenn man bei so 'nem Date ist und der eine bringt seinen Mops mit,456.22530263,459.374009527
+1076,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Der liegt dann <v='unter dem'>unterm</v> Tisch,Der liegt dann unterm Tisch,459.618095333,460.521212815
+1077,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja:,Ja,463.049656545,463.598849609
+1078,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja ist das nicht peinlich,Ja ist das nicht peinlich,463.684279641,464.660622864
+1079,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wenn er die ganze Zeit versucht das so ... zu vertuschen,Wenn er die ganze Zeit versucht das so zu vertuschen,464.660622864,467.909119723
+1080,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Obwohl das <v='ist'>is'</v> -,Obwohl das is' -,468.836645785,469.556698913
+1081,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,471.155460942,471.814492618
+1082,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,472.292616505,472.927239601
+1083,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,472.927239601,473.415411212
+1084,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='wäre'>wär'</v> auch lustig,Das wär' auch lustig,473.683905599,474.648044532
+1085,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Versucht zu kaschieren ja das -,Versucht zu kaschieren ja das -,477.076698301,478.492395976
+1086,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,486.179870724,486.753472368
+1087,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Ist</laughter> die Frage wie du das kaschieren möchtest,Ist die Frage wie du das kaschieren möchtest,487.846219174,489.383959751
+1088,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,489.383959751,490.213851491
+1089,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,490.933904619,491.312237618
+1090,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja Vorstellungsgespräch könnten wir ja echt noch weiter <unclear/>,Ja Vorstellungsgespräch könnten wir ja echt noch weiter,491.864711776,494.110301191
+1091,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,495.611428897,496.758632185
+1092,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,496.831857927,497.161373765
+1093,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Fällt es'>Fällt's denn und nicht irgendwas ein was uns selber passiert,Fällt's denn und nicht irgendwas ein was uns selber passiert,497.161373765,499.040834471
+1094,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,499.187285954,499.736479018
+1095,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,501.098847518,501.489384808
+1096,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay gut,Okay gut,501.489384808,501.940943549
+1097,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,501.940943549,503.237881268
+1098,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Plaudern wir <v='ein'>'n</v> Bisschen aus dem Nähkästchen von anderen,Plaudern wir 'n Bisschen aus dem Nähkästchen von anderen,503.237881268,505.312610618
+1099,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,505.312610618,505.825190811
+1100,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,505.825190811,506.325566713
+1101,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut Vorstelungsgespräch,Gut Vorstelungsgespräch,506.325566713,507.509382872
+1102,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Finde ich auch nicht schlecht,Finde ich auch nicht schlecht,507.509382872,508.461317515
+1103,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also derjenige,Also derjenige,508.847344644,509.689440675
+1104,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,515.41315292,515.913528822
+1105,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also derjenige kommt rein,Also derjenige kommt rein,515.913528822,517.219387884
+1106,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ist so richtig schick angezogen,Ist so richtig schick angezogen,517.219387884,519.245300073
+1107,../transcriptions_annotations/r15/r15.TextGrid,A-utts,So <v='ein'>'n</v> langer Lulatsch (mit so <v='einem'>'nem</v> {F äh} + mit so <v='einem'>'nem</v>) Anzug,So 'n langer Lulatsch mit so 'nem mit so 'nem Anzug,519.245300073,523.236103
+1108,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hochgeknöpft bis oben hin,Hochgeknöpft bis oben hin,523.236103,524.529757772
+1109,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Krawatte viel zu lang,Krawatte viel zu lang,525.710192005,526.894008164
+1110,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,527.022618815,527.449768976
+1111,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>{F ähm}</laughter>,,527.571811879,527.876919136
+1112,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,527.876919136,528.4261122
+1113,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Brille,Brille,528.4261122,528.889875231
+1114,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,528.889875231,529.28041252
+1115,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,529.390251133,529.878422745
+1116,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Kommt dann rein und bestellt sich die ganze Zeit überall rum,Kommt dann rein und bestellt sich die ganze Zeit überall rum,530.98563031,533.02374679
+1117,../transcriptions_annotations/r15/r15.TextGrid,A-utts,So,So,533.206811144,533.487509821
+1118,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Weil er ganz aufgeregt <v='ist'>is'</v> und nervös <v='ist'>is'</v>,Weil er ganz aufgeregt is' und nervös is',533.719391337,535.537830591
+1119,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,536.870253873,537.285199743
+1120,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Genau</laughter> und kommt dann -,Genau und kommt dann -,537.456059807,538.493424482
+1121,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau das ist die Sequenz davor,Genau das ist die Sequenz davor,538.493424482,540.006756479
+1122,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wie er schon so vorher so da sitzt und am schwitzen ist,Wie er schon so vorher so da sitzt und am schwitzen ist,540.006756479,542.740517505
+1123,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,543.533796375,544.632182501
+1124,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau so,Genau so,544.817403422,545.342187904
+1125,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,545.342187904,545.744929484
+1126,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann {F ähm},Und dann,545.744929484,546.80670274
+1127,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja okay (dann + dann) kommt er rein,Ja okay dann dann kommt er rein,548.991270703,550.675462764
+1128,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann klopft er er erstmal so ganz förmlich,Dann klopft er er erstmal so ganz förmlich,551.267834594,552.683532268
+1129,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Guckt dann so rein,Guckt dann so rein,552.683532268,553.452402557
+1130,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Darf ich reinkommen,Darf ich reinkommen,553.452402557,554.233477136
+1131,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,554.587401555,554.79487449
+1132,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<unclear/>,,556.944986148,557.372136308
+1133,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Auf der Damentoilette,Auf der Damentoilette,560.498589337,561.43831969
+1134,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Ist'>Is'</v> auch nicht so -,Is' auch nicht so -,561.670201205,562.402458623
+1135,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber das weiß man doch <laughter>irgendwie oder</laughter>,Aber das weiß man doch irgendwie oder,562.6831573,564.403962232
+1136,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,564.403962232,564.74568236
+1137,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay auf der Damentoilette,Okay auf der Damentoilette,564.74568236,565.892885648
+1138,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Es <v='ist'>is'</v> ja <v='ein'>'n</v> Film,Es is' ja 'n Film,565.892885648,566.564121614
+1139,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,566.564121614,566.857024581
+1140,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Auf der Damentoilette,Auf der Damentoilette,567.155367062,567.997463093
+1141,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,568.571064737,568.839559123
+1142,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann <v='ist'>is'</v> er schon völlig durcheinander,Dann is' er schon völlig durcheinander,569.022623478,570.413912571
+1143,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,570.413912571,572.085900342
+1144,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,572.281168987,572.757136308
+1145,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann: {F äh},Dann,572.989017824,573.940952467
+1146,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau und dann trifft er nachher die eine Dame . {F äh} die sich gerade den Lippenstift {F äh} drauf macht,Genau und dann trifft er nachher die eine Dame die sich gerade den Lippenstift drauf macht,574.246059725,578.072569409
+1147,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='ist'>is'</v> dann irgendwie -,Das is' dann irgendwie -,578.072569409,579.659127148
+1148,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau,Genau,580.000847276,580.415793146
+1149,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,584.741550499,585.241926401
+1150,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<unsure>Warum auch immer</unsure>,Warum auch immer,585.241926401,585.803323754
+1151,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Was man halt so tut auf der Damentoilette,Was man halt so tut auf der Damentoilette,585.803323754,587.316655751
+1152,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,587.316655751,587.865848814
+1153,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,588.231977523,588.91541778
+1154,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Ich weiß nicht was du auf der Damentoilette machst</laughter>,Ich weiß nicht was du auf der Damentoilette machst,588.91541778,590.636222712
+1155,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,590.636222712,591.173211485
+1156,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,591.173211485,591.612565936
+1157,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann {F ähm},Dann,591.612565936,592.466866256
+1158,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut dann {F äh},Gut dann,593.821444428,594.944239136
+1159,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau dann kommt er rein und das <v='ist'>is'</v> die,Genau dann kommt er rein und das is' die,595.322572135,597.031172776
+1160,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja okay was könnte denn da noch peinliches passieren,Ja okay was könnte denn da noch peinliches passieren,608.216866731,610.279391791
+1161,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja okay,Ja okay,615.660254747,616.20944781
+1162,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='ist'>is'<v> gut,Das is' gut,616.747463061,617.125796061
+1163,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Warum auch immer man das auf der Damentoilette macht,Warum auch immer man das auf der Damentoilette macht,618.443859413,620.176868635
+1164,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber im Film ist das so,Aber im Film ist das so,620.176868635,621.299663342
+1165,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,621.299663342,622.092942211
+1166,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Keine Ahnung</laughter>,Keine Ahnung,622.092942211,622.996059693
+1167,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Zu Hause</laughter>,Zu Hause,622.996059693,623.594069918
+1168,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,623.594069918,624.167671562
+1169,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,624.167671562,624.570413142
+1170,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hm,Hm,624.680251754,625.144014786
+1171,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,626.730471694,627.047783242
+1172,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,628.817405335,629.073695431
+1173,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann ist <unsure>die ganze</unsure> Bluse ((<p='durchnässt'>durch-</p> + <p='durchnässt'>durch-</p>) + durchnässt),Dann ist die ganze Bluse durch- durch- durchnässt,629.232351205,630.977564717
+1174,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Die weiße,Die weiße,630.977564717,631.465736329
+1175,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder <laughter>was</laughter>,Oder was,631.465736329,631.953907941
+1176,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,631.953907941,632.173585166
+1177,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay gut,Okay gut,632.173585166,632.673961068
+1178,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,632.673961068,632.905842584
+1179,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja (dann kommt er + dann kommt er) <v='herein'>rein</v>,Ja dann kommt er dann kommt er rein,632.905842584,634.614443226
+1180,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann,Dann,635.617351596,635.873641692
+1181,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das war ja nicht festgelegt oder,Das war ja nicht festgelegt oder,645.152086288,646.299289576
+1182,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Ob es'>Ob's</v> auch -,Ob's auch -,646.299289576,646.653213994
+1183,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,647.129181316,647.31224567
+1184,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,647.434288573,647.629557218
+1185,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist wie,Das ist wie,656.995685536,657.508265729
+1186,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Kennst du diese Szene von <name>Loriot</name> mit der Nudel,Kennst du diese Szene von Loriot mit der Nudel,657.508265729,659.107027758
+1187,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ach <name>Karo</name> du kennst ja die ganzen Klassiker nicht,Ach Karo du kennst ja die ganzen Klassiker nicht,660.339561174,662.756010653
+1188,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,663.098757259,663.416068807
+1189,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist da -,Das ist da -,663.416068807,663.96526187
+1190,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Da will er die ganze Zeit ihr so <v='einen'>'n</v>,Da will er die ganze Zeit ihr so 'n,663.96526187,665.246712351
+1191,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Na ihm so <v='einen'>'n</v>,Na ihm so 'n,665.246712351,665.966765479
+1192,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ihr,Ihr,666.076604091,666.198646994
+1193,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also ne,Also ne,666.198646994,666.699022897
+1194,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Er will . ihr <v='einen'>'n</v> Heiratsantrag machen die ganze Zeit,Er will ihr 'n Heiratsantrag machen die ganze Zeit,666.699022897,669.249719569
+1195,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Im Restaurant so ganz förmlich,Im Restaurant so ganz förmlich,669.556040662,670.983942627
+1196,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und <laughter>er hat die ganze Zeit diese Nudel im Schnurrbart hängen</laughter>,Und er hat die ganze Zeit diese Nudel im Schnurrbart hängen,670.983942627,673.717703653
+1197,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,673.717703653,674.169262394
+1198,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F äh},Und,674.352326749,674.938132683
+1199,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Er will halt die ganze Zeit ihr den -,Er will halt die ganze Zeit ihr den -,675.127763859,676.089648176
+1200,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und sie (will + versucht) ihm (die {F äh} + die) ganze Zeit während des Gesprächs ihm zu sagen dass er diese Nudel da hängen hat <laughter>und er versucht</laughter> ihr die ganze Zeit den Antrag zu -,Und sie will versucht ihm die die ganze Zeit während des Gesprächs ihm zu sagen dass er diese Nudel da hängen hat und er versucht ihr die ganze Zeit den Antrag zu -,676.089648176,682.240610485
+1201,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,682.240610485,682.655556355
+1202,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das war auch so besonders schön,Das war auch so besonders schön,682.655556355,683.583082418
+1203,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,683.583082418,683.814863103
+1204,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also,Also,683.814863103,684.132174651
+1205,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja wenn man sagt die könnten beide peinlich sein dann könnte . sie ja auch praktisch die ganze Zeit ihn für -,Ja wenn man sagt die könnten beide peinlich sein dann könnte sie ja auch praktisch die ganze Zeit ihn für -,684.229808974,689.465449511
+1206,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh} ne,ne,689.575288124,689.880395381
+1207,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Er könnte sie <nv type='breathing'/> versuchen darauf hinzuweisen auf diesen Fleck,Er könnte sie versuchen darauf hinzuweisen auf diesen Fleck,690.27093267,693.224370922
+1208,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dass das immer mehr durchtropft,Dass das immer mehr durchtropft,693.407435277,694.664477177
+1209,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,699.976525574,700.562331508
+1210,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,703.381522567,703.820877017
+1211,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay das ist schön,Okay das ist schön,705.643625697,706.485721728
+1212,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,707.144753404,707.486473532
+1213,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Sind da noch andere im Raum oder nur die beiden,Sind da noch andere im Raum oder nur die beiden,708.182118079,709.915127301
+1214,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,713.002812746,713.283511423
+1215,../transcriptions_annotations/r15/r15.TextGrid,A-utts,So zwei ganz förmliche Herren,So zwei ganz förmliche Herren,714.906682033,716.358992578
+1216,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Die ganze Zeit ganz streng,Die ganze Zeit ganz streng,718.104107113,719.190288949
+1217,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau und die so ganz streng gucken die ganze Zeit,Genau und die so ganz streng gucken die ganze Zeit,719.458783336,721.533512686
+1218,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und ihn ganz . komisch mustern,Und ihn ganz komisch mustern,722.046092879,723.437381973
+1219,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das könnte auch voll die <english>Lovestory</english> werden,Das könnte auch voll die Lovestory werden,725.560827654,727.013138199
+1220,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,727.013138199,727.891847101
+1221,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter><unsure>Zwischen den beiden</unsure></laughter>,Zwischen den beiden,727.891847101,728.68512597
+1222,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,728.68512597,729.600447742
+1223,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,729.966576451,730.418135192
+1224,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,730.515769515,730.918511094
+1225,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Könnte denn da noch irgendwas peinliches passieren,Könnte denn da noch irgendwas peinliches passieren,731.55313419,733.261734831
+1226,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,738.007977471,738.300880438
+1227,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Wäre'>Wär'</v> ja lustig irgendwie so <v='ein'>'n</v> Blusenladen oder so <v='ein'>'n</v> Schneiderservice oder so,Wär' ja lustig irgendwie so 'n Blusenladen oder so 'n Schneiderservice oder so,744.437283937,747.378517898
+1228,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wegen der Bluse. dann,Wegen der Bluse dann,747.476152221,748.391473993
+1229,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder so,Oder so,748.623355509,748.989484217
+1230,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder:,Oder,749.92921457,750.368569021
+1231,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,752.479911242,752.80942708
+1232,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja zum Beispiel,Ja zum Beispiel,753.279756007,753.926583393
+1233,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hm,Hm,762.147765819,763.026474721
+1234,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,764.344538073,764.942548297
+1235,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Weiß ich nicht,Weiß ich nicht,769.743142883,770.475400301
+1236,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Versicherung,Versicherung,770.780507559,771.317496332
+1237,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ne,Ne,771.317496332,771.561582138
+1238,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Keine Ahnung was <v='gibt es'>gibt's</v> denn besonders förmliches,Keine Ahnung was gibt's denn besonders förmliches,772.110775201,774.197708842
+1239,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja:,Ja,784.688888337,784.969587014
+1240,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Können wir machen,Können wir machen,784.969587014,785.567597238
+1241,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,787.329324467,787.573410273
+1242,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist gut,Das ist gut,787.707657466,788.098194756
+1243,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja oder sowas versicherungsmäßiges da musst du ja auch richtig korrekt sein,Ja oder sowas versicherungsmäßiges da musst du ja auch richtig korrekt sein,788.439914884,791.660719287
+1244,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,792.917761188,793.222868445
+1245,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist auch nicht schlecht,Das ist auch nicht schlecht,793.759857218,794.455501765
+1246,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,795.296372436,795.613683984
+1247,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,796.053038435,796.24830708
+1248,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,798.664756558,799.055293848
+1249,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hast du <name>Suits</name> gesehen,Hast du Suits gesehen,799.213949622,800.019432781
+1250,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,801.105614618,801.447334746
+1251,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,801.447334746,801.752442003
+1252,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Da <v='gibt es'>gibt's</v> nämlich auch ne . Szene (von + mit) <v='einem'>'nem</v> Vorstellungsgespräch,Da gibt's nämlich auch ne Szene von mit 'nem Vorstellungsgespräch,801.752442003,804.583837352
+1253,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wo er {F ähm} eigentlich gerade versucht {F äh} . Haschisch zu verkaufen,Wo er eigentlich gerade versucht Haschisch zu verkaufen,804.88894461,808.631150644
+1254,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F äh} .. dann sich eigentlich nur retten will (vor den {F äh} + vor den) anderen <v='weil es'>weil's</v> halt <v='eine'>'ne</v> Falle ist und dann platzt er in dieses Vorstellungsgespräch von dem Anwalt rein,Und dann sich eigentlich nur retten will vor den vor den anderen weil's halt 'ne Falle ist und dann platzt er in dieses Vorstellungsgespräch von dem Anwalt rein,808.826419289,816.854587688
+1255,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann sagt der das so,Und dann sagt der das so,817.138570239,818.068251014
+1256,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich will mich eigentlich gerade nur verstecken,Ich will mich eigentlich gerade nur verstecken,818.068251014,819.386314366
+1257,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Weil ich habe <unclear/></laughter>,Weil ich habe,819.386314366,820.679969138
+1258,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann platzt ihm auch noch der Koffer so auf,Und dann platzt ihm auch noch der Koffer so auf,820.679969138,822.071258231
+1259,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,822.071258231,822.61040357
+1260,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann denken die halt das ist voll die coole Szene,Und dann denken die halt das ist voll die coole Szene,822.61040357,824.978035888
+1261,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber das ist nicht wirklich peinlich insofern passt es nicht,Aber das ist nicht wirklich peinlich insofern passt es nicht,825.161100242,827.162603851
+1262,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber es passt . jetzt gerade dazu,Aber es passt jetzt gerade dazu,827.162603851,828.968838815
+1263,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,828.968838815,829.749913394
+1264,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,829.749913394,830.43335365
+1265,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,842.874865073,843.143359459
+1266,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Finde'>Find'</v> ich auch nicht schlecht,Find' ich auch nicht schlecht,843.436262426,844.119702683
+1267,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und ich <v='finde es'>find's</v> auch lustig wenn die . b:eide peinliche Sachen haben das aber so gegenseitig nicht so richtig . merken,Und ich find's auch lustig wenn die beide peinliche Sachen haben das aber so gegenseitig nicht so richtig merken,844.644487166,849.704756552
+1268,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,849.704756552,850.644486905
+1269,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Mhm,Mhm,850.644486905,851.096045646
+1270,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist gut,Das ist gut,851.096045646,851.718464451
+1271,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber wie löst sich die Situation dann auf,Aber wie löst sich die Situation dann auf,851.718464451,853.341635061
+1272,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,856.965082067,857.953629581
+1273,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,857.953629581,858.710295579
+1274,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist auch gut,Das ist auch gut,861.487235372,862.182879919
+1275,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,862.805298724,863.012771659
+1276,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Er soll dann irgendwas präsentieren,Er soll dann irgendwas präsentieren,863.317878917,864.416265043
+1277,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das <v='wäre'>wär'</v> lustig weil dann könnte er sich noch lustig dabei anstellen,Das wär' lustig weil dann könnte er sich noch lustig dabei anstellen,864.416265043,866.698467329
+1278,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also,Also,866.698467329,866.966961715
+1279,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,866.966961715,867.296477553
+1280,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Vielleicht dass er dann irgendwie: -,Vielleicht dass er dann irgendwie -,867.296477553,868.687766647
+1281,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Genau er muss irgendwas aufbauen dabei fällt ihm dann alles hin,Genau er muss irgendwas aufbauen dabei fällt ihm dann alles hin,869.22475542,871.696586103
+1282,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dabei . drückt er dann so ausversehen auf den Feueralarm mit dem -,Und dabei drückt er dann so ausversehen auf den Feueralarm mit dem -,871.696586103,875.003948773
+1283,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay die Szene ist jetzt aber eh schon <v='ein'>'n</v> Bisschen klischeehaft,Okay die Szene ist jetzt aber eh schon 'n Bisschen klischeehaft,880.54131279,883.238460946
+1284,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,885.70475499,885.912227925
+1285,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,886.339378085,886.790936826
+1286,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,886.790936826,887.718462889
+1287,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,888.047978727,888.707010403
+1288,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,889.13180419,889.619975802
+1289,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,893.549757277,893.928090277
+1290,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter>Und dann ist es auch egal mit ihrer Bluse</laughter>,Und dann ist es auch egal mit ihrer Bluse,894.294218986,895.88293329
+1291,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,895.88293329,897.066749449
+1292,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,897.066749449,897.528355914
+1293,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,898.067501253,898.486857379
+1294,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,898.486857379,898.689920058
+1295,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann -,Und dann -,900.549382439,901.074166922
+1296,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Fleck,Fleck,903.173304853,903.539433562
+1297,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und dann <v='ist'>is'</v> es zu Ende,Und dann is' es zu Ende,904.161852367,904.869701204
+1298,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich bin stolz <laughter>auf uns</laughter>,Ich bin stolz auf uns,905.93147446,907.627870811
+1299,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,907.98179523,908.343709631
+1300,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Hallo <name>Holger</name>,Hallo Holger,1342.40476061,1343.28346952
+1301,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,1343.28346952,1343.74723255
+1302,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ungewöhnliche Situation jetzt in der wir gerade sind,Ungewöhnliche Situation jetzt in der wir gerade sind,1344.10115697,1347.31088531
+1303,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber {F ähm} du weißt ja ich muss das trotzdem jetzt relativ {F äh} professionell durchziehen,Aber du weißt ja ich muss das trotzdem jetzt relativ professionell durchziehen,1347.42841654,1351.66330528
+1304,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Deswegen lass uns das einfach relativ schnell abhaken,Deswegen lass uns das einfach relativ schnell abhaken,1351.66330528,1354.7753993
+1305,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,1355.99545042,1356.73991213
+1306,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,1356.98399794,1357.35012665
+1307,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Name,Name,1357.99685431,1358.3751873
+1308,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Vielleicht <v='magst du'>magste</v> es jetzt nochmal kurz sagen,Vielleicht magste es jetzt nochmal kurz sagen,1358.3751873,1359.7664764
+1309,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ist jetzt albern aber ich {F äh},Ist jetzt albern aber ich,1359.7664764,1361.98765723
+1310,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,1362.9151833,1363.29351629
+1311,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ist das auch dein eingetragener Name oder {F ähm} -,Ist das auch dein eingetragener Name oder -,1364.12002611,1366.67072278
+1312,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Achso ja okay {F ähm} -,Achso ja okay -,1372.18029722,1373.76685496
+1313,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut {F ähm} müssen wir jetzt trotzdem <v='darüber'>drüber</v> sprechen {F ähm} -,Gut müssen wir jetzt trotzdem drüber sprechen -,1374.10857509,1376.70808892
+1314,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1378.09374147,1378.41105302
+1315,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also nicht <name>Holger</name>,Also nicht Holger,1378.41105302,1379.38739624
+1316,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Was soll ich jetzt eintragen,Was soll ich jetzt eintragen,1379.38739624,1380.40035234
+1317,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Naja du {F ähm} ich . kann das jetzt <v='ein'>n</v> Bisschen . schlecht . einfach so eintragen,Naja du ich kann das jetzt n Bisschen schlecht einfach so eintragen,1384.12266088,1388.50503035
+1318,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also du müsstest mir jetzt schon <v='ein'>'n</v> Bisschen mehr Hintergrundinformationen: geben . sonst funktioniert das nicht,Also du müsstest mir jetzt schon 'n Bisschen mehr Hintergrundinformationen geben sonst funktioniert das nicht,1388.50503035,1392.94739202
+1319,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1405.35228964,1406.32863287
+1320,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1410.14857573,1410.72217737
+1321,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1411.52202399,1413.7798177
+1322,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,1414.1581507,1414.76836521
+1323,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1415.21992395,1415.74470843
+1324,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,1416.31831008,1416.80648169
+1325,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1417.28573196,1417.52981777
+1326,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,1417.52981777,1418.01798938
+1327,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,1418.2376666,1418.89669828
+1328,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1419.04314976,1419.45809563
+1329,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Naja <name>Franz</name> {F ähm},Naja Franz,1419.73879431,1420.83718044
+1330,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1421.87454511,1422.33830814
+1331,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich <v='trage'>trag'</v> jetzt hier einfach mal <name>Holger</name> ein okay?,Ich trag' jetzt hier einfach mal Holger ein okay?,1423.67401623,1425.56568122
+1332,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1426.21250861,1426.33455151
+1333,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Nee Moment (was stand auf + was stand auf) deinem Ausweis,Nee Moment was stand auf was stand auf deinem Ausweis,1426.33455151,1428.50691518
+1334,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<name>Klaus</name>,Klaus,1429.16594686,1429.55648415
+1335,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1429.55648415,1430.36196731
+1336,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,1431.76536264,1431.96063129
+1337,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,1432.25353425,1432.6928887
+1338,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1433.12003886,1433.42514612
+1339,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut <name>Klaus</name>,Gut Klaus,1433.42514612,1434.02315635
+1340,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1434.02315635,1434.4625108
+1341,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Dann nehmen wir jetzt mal <name>Klaus</name>,Dann nehmen wir jetzt mal Klaus,1434.88966096,1436.02465995
+1342,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Nenne ich dich jetzt trotzdem noch <name>Holger</name>,Nenne ich dich jetzt trotzdem noch Holger,1437.66885629,1438.97471535
+1343,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Naja es muss schon irgendwie übereinstimmen weißt du,Naja es muss schon irgendwie übereinstimmen weißt du,1445.89557721,1448.32413293
+1344,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wir können jetzt nicht hier irgendwie dich <name>Holger</name> nennen und gleichzeitig steht <name>Franz</name> auf deinem Ausweis,Wir können jetzt nicht hier irgendwie dich Holger nennen und gleichzeitig steht Franz auf deinem Ausweis,1448.32413293,1452.3881616
+1345,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Deswegen {F ähm} müssen wir schon gucken dass das {F äh} irgendwie übereinstimmt,Deswegen müssen wir schon gucken dass das irgendwie übereinstimmt,1452.3881616,1455.95181436
+1346,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber ((ich + ich) + ich) schreib jetzt <name>Franz</name> auf,Aber ich ich ich schreib jetzt Franz auf,1455.95181436,1457.56278068
+1347,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F ähm} -,Und -,1457.56278068,1458.39267242
+1348,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das wäre ganz gut wenn du das an deinen Briefkasten schreibst,Das wäre ganz gut wenn du das an deinen Briefkasten schreibst,1459.86488139,1462.29353516
+1349,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1462.29353516,1462.83052393
+1350,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,1462.83052393,1463.31080161
+1351,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja noch <v='eine'>'ne</v> unangenehme Sache auf die ich dich hier ansprechen muss weil {F ähm} -,Ja noch 'ne unangenehme Sache auf die ich dich hier ansprechen muss weil -,1463.31080161,1466.74020718
+1352,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1467.89961476,1468.46101211
+1353,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,1469.92552695,1470.46251572
+1354,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Tut mir Leid weißt du <p='ich'>i-</p>,Tut mir Leid weißt du i-,1472.15891207,1473.16510154
+1355,../transcriptions_annotations/r15/r15.TextGrid,A-utts,(Das + Es) werden halt Stichproben gemacht,Das Es werden halt Stichproben gemacht,1473.16510154,1475.27644376
+1356,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und {F äh} ich kann nicht einfach irgendwen <v='hinein'>rein</v> lassen wenn ich den nicht vorher überprüft habe,Und ich kann nicht einfach irgendwen rein lassen wenn ich den nicht vorher überprüft habe,1475.27644376,1479.08418233
+1357,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Auch wenn das <v='eine'>'ne</v> unangenehme Situation jetzt zwischen uns beiden ist aber -,Auch wenn das 'ne unangenehme Situation jetzt zwischen uns beiden ist aber -,1479.08418233,1482.36713642
+1358,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1482.36713642,1483.28245819
+1359,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,1483.28245819,1483.7706298
+1360,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also -,Also -,1485.26499088,1485.64332388
+1361,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1485.94392098,1486.27343681
+1362,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich <v='habe'>hab'</v> hier Aufzeichnungen von ihnen,Ich hab' hier Aufzeichnungen von ihnen,1486.27343681,1488.48241336
+1363,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,1488.48241336,1488.98278926
+1364,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Von dir,Von dir,1488.98278926,1489.48316516
+1365,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<v='Entschuldigung'>'Tschuldigung</v>,'Tschuldigung,1489.48316516,1490.00794965
+1366,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,1490.00794965,1490.43509981
+1367,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und -,Und -,1490.43509981,1490.93547571
+1368,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F äh},,1491.66773313,1491.9484318
+1369,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Was hast du zwischen den Jahren Neunzehnhundertachtundneunzig und Zweitausendunddrei gemacht,Was hast du zwischen den Jahren Neunzehnhundertachtundneunzig und Zweitausendunddrei gemacht,1493.30526274,1497.13740989
+1370,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Weil {F ähm} das ist jetzt hier <v='ein'>'n</v> Bisschen . komisch weil du halt keinen registrierten Wohnsitz angegeben hast,Weil das ist jetzt hier 'n Bisschen komisch weil du halt keinen registrierten Wohnsitz angegeben hast,1497.29606567,1503.39154501
+1371,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Und ich muss leider so <v='ein'>'n</v> -,Und ich muss leider so 'n -,1503.39154501,1504.72181266
+1372,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das in den Akten vermerken {F ähm},Das in den Akten vermerken,1504.83154859,1506.61337497
+1373,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Deswegen . sei am Besten ehrlich zu mir,Deswegen sei am Besten ehrlich zu mir,1507.40665384,1509.64003896
+1374,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Okay,Okay,1529.64482659,1530.20622395
+1375,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Du weißt dass das im Niemandsland eigentlich {F äh} -,Du weißt dass das im Niemandsland eigentlich -,1531.13375001,1533.45472173
+1376,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja nur eigentlich darf ich niemanden <v='hinein'>rein</v> lassen der irgendwann mal {F äh} etwas illegales getan hat und im Gefängnis saß dafür geradezu,Ja nur eigentlich darf ich niemanden rein lassen der irgendwann mal etwas illegales getan hat und im Gefängnis saß dafür geradezu,1539.36149926,1545.87859027
+1377,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das weiß ich das interessiert die da nur leider nicht,Das weiß ich das interessiert die da nur leider nicht,1546.61084769,1548.69778133
+1378,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja wir müssen halt versuchen das irgendwie {F ähm} zu {F äh} überbrücken vielleicht {F ähm},Ja wir müssen halt versuchen das irgendwie zu überbrücken vielleicht,1552.40224626,1557.65337496
+1379,../transcriptions_annotations/r15/r15.TextGrid,A-utts,{F ähm},,1564.52532068,1565.1355352
+1380,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja wir könnten das vielleicht irgendwie {F ähm},Ja wir könnten das vielleicht irgendwie,1565.87774229,1568.1233317
+1381,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1569.66107228,1570.35671683
+1382,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1570.99133992,1571.72359734
+1383,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,1572.01650031,1572.66332769
+1384,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Könnten das vielleicht irgendwie mit {F äh} . ja mit . deiner Ehefrau irgendwie vielleicht {F äh} verbinden dass wir {F äh} ... <nv type='breathing'/> sagen {F äh} . du warst bei ihr gewohnt oder so und warst deswegen nicht {F äh} gemeldet oder so,Könnten das vielleicht irgendwie mit ja mit deiner Ehefrau irgendwie vielleicht verbinden dass wir sagen du warst bei ihr gewohnt oder so und warst deswegen nicht gemeldet oder so,1572.66332769,1590.22623171
+1385,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Oder <v='gibt es'>gibt's</v> da irgendwas was ich noch wissen sollte,Oder gibt's da irgendwas was ich noch wissen sollte,1592.44064869,1594.49096946
+1386,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also <name>Klaus</name>,Also Klaus,1604.82677706,1605.66887309
+1387,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also -,Also -,1640.44732075,1640.752428
+1388,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<name>Klaus</name> das sind ja jetzt <v='eine'>'ne</v> Menge Dinge die ich irgendwie nicht weiß von dir,Klaus das sind ja jetzt 'ne Menge Dinge die ich irgendwie nicht weiß von dir,1640.95990094,1644.31608077
+1389,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Das ist jetzt ne Bisschen blöde Situation,Das ist jetzt ne Bisschen blöde Situation,1644.52355371,1646.65930451
+1390,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1646.65930451,1647.2939276
+1391,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Weiß <name>Katharina</name> davon irgendwas,Weiß Katharina davon irgendwas,1666.97135596,1668.59452657
+1392,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1672.74398527,1674.74548888
+1393,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1693.60748533,1694.96216155
+1394,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Du es ist halt <v='ein'>'n</v> Bisschen schwierige Situation jetzt für mich,Du es ist halt 'n Bisschen schwierige Situation jetzt für mich,1700.65592858,1703.03576518
+1395,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Nicht nur hier {F äh} diese {F äh} Situation die halt so förmlich <v='ist'>is'</v> sondern auch wie soll ich denn später nachher mit diesem . Wissen klar kommen,Nicht nur hier diese Situation die halt so förmlich is' sondern auch wie soll ich denn später nachher mit diesem Wissen klar kommen,1703.03576518,1710.95850615
+1396,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1713.47248912,1714.71732673
+1397,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut,Gut,1717.69517357,1718.18334518
+1398,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1719.28388694,1720.0893701
+1399,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Jetzt <v='habe'>hab'</v> ich ja schon einiges über dich erfahren,Jetzt hab' ich ja schon einiges über dich erfahren,1720.99248759,1722.68888394
+1400,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1722.68888394,1723.29909845
+1401,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Was ich vielleicht besser nicht hätte erfahren sollen,Was ich vielleicht besser nicht hätte erfahren sollen,1723.67743145,1725.91081658
+1402,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Drogen <v='nimmst du'>nimmste</v> aber nicht mit,Drogen nimmste aber nicht mit,1726.24690016,1727.54055493
+1403,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1727.62598497,1728.35824238
+1404,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,1729.02947835,1729.93259583
+1405,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1730.38415457,1730.86012189
+1406,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Tut mir Leid dass ich das dich jetzt so ehrlich frage,Tut mir Leid dass ich das dich jetzt so ehrlich frage,1733.41071959,1735.29018029
+1407,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Aber bei den ganzen überraschungen die ich jetzt gerade erlebt habe,Aber bei den ganzen überraschungen die ich jetzt gerade erlebt habe,1735.29018029,1737.70662977
+1408,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Vielleicht <laughter>kommt</laughter> ja jetzt noch was anderes,Vielleicht kommt ja jetzt noch was anderes,1737.70662977,1739.73254196
+1409,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv type='breathing'/>,,1739.73254196,1740.84313238
+1410,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,1740.84313238,1741.66081983
+1411,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Du musst ehrlich zu mir sein das weißt du,Du musst ehrlich zu mir sein das weißt du,1744.2657741,1745.93776187
+1412,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<nv/>,,1745.93776187,1746.29168629
+1413,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1752.90631358,1753.8948611
+1414,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,1754.5172799,1755.42039738
+1415,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Welche Blumen,Welche Blumen,1762.94367879,1763.60271047
+1416,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1763.70034479,1764.89636524
+1417,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,1764.89636524,1765.56760121
+1418,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also . <name>Klaus</name> nachdem ich jetzt so viel über dich erfahren <v='habe'>hab'</v>,Also Klaus nachdem ich jetzt so viel über dich erfahren hab',1779.79422103,1782.02760616
+1419,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich weiß echt nicht ob ich das mit meinem Gewissen vereinbaren kann dass ich dich jetzt hier <v='hinein'>rein</v> lasse,Ich weiß echt nicht ob ich das mit meinem Gewissen vereinbaren kann dass ich dich jetzt hier rein lasse,1782.02760616,1785.72550612
+1420,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja nur also was wollen sie denn überhaupt im Niemandsland,Ja nur also was wollen sie denn überhaupt im Niemandsland,1787.48395225,1789.62965273
+1421,../transcriptions_annotations/r15/r15.TextGrid,A-utts,((Was + Was) + Was) ist denn: ihre Intention,Was Was Was ist denn ihre Intention,1789.62965273,1791.86303785
+1422,../transcriptions_annotations/r15/r15.TextGrid,A-utts,(Ich muss + Du musst) mich jetzt irgendwie <v='ein'>'n</v> Bisschen davon überzeugen dass . ich dich da <v='hinein'>rein</v> lassen soll,Ich muss Du musst mich jetzt irgendwie 'n Bisschen davon überzeugen dass ich dich da rein lassen soll,1791.86303785,1796.03690513
+1423,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Möchtest du Margeriten <laughter>pflanzen oder was</laughter>,Möchtest du Margeriten pflanzen oder was,1798.387823,1800.41373519
+1424,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughterOffset/>,,1800.41373519,1800.95072396
+1425,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Wolltest du Niemandsland {F äh} schöner machen durch deine Margeriten oder wie,Wolltest du Niemandsland schöner machen durch deine Margeriten oder wie,1801.12158403,1804.79507541
+1426,../transcriptions_annotations/r15/r15.TextGrid,A-utts,<laughter/>,,1804.79507541,1805.18561269
+1427,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja aber was möchtest du da tun,Ja aber was möchtest du da tun,1807.40556632,1808.73583396
+1428,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Also ((was + was) + was) {F ähm} hat Niemandsland davon dass du zu ihm kommst,Also was was was hat Niemandsland davon dass du zu ihm kommst,1808.73583396,1813.04394843
+1429,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ja,Ja,1817.5306171,1817.9089501
+1430,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Ich muss gucken ob das politisch vereinbar ist mit unserer Verfassung,Ich muss gucken ob das politisch vereinbar ist mit unserer Verfassung,1820.14664836,1823.07567803
+1431,../transcriptions_annotations/r15/r15.TextGrid,A-utts,Gut durch deinen Job vorher .. hast du damit ja auch gute Erfahrungen,Gut durch deinen Job vorher hast du damit ja auch gute Erfahrungen,1845.33136891,1849.00485967
