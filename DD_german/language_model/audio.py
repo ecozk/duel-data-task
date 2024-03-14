@@ -77,7 +77,7 @@ def get_stats(data:pd.DataFrame) -> int:
     return larget_time_durnation, min_time_durnation
 
 def generate_melSpectrogram(df:pd.DataFrame, session:int, n_mels=512)-> None:
-    session_data= df.loc [ (df['Participant'] == str(session)+'a') | (df['Participant'] == str(session)+'b') ]
+    session_data= df.loc [ (df['Participant'] == str(session)+'a') | (df['Participant'] == str(session)+'b') ] # number of sample for each session for both speaker
     print(f"total number of sample for session {session} are {len(session_data)}")
     audio_file_path = f"../data/audio/r{session}/r{session}.wav"
     print(audio_file_path)
@@ -231,10 +231,6 @@ def train(train_loader, val_loader, model, loss_function, optimizer, epochs, dev
                 writer.add_scalar('Training Loss', avg_loss, global_step)
                 writer.add_scalar('Training Accuracy', accuracy, global_step)
 
-                train_loss = 0.0
-                num_train_correct = 0
-                num_train_examples = 0
-
         epoch_acc =  (num_train_correct / num_train_examples).item()
         epoch_loss  = train_loss / len(train_loader.dataset)
         history['loss'].append(epoch_loss)
@@ -288,8 +284,8 @@ def train(train_loader, val_loader, model, loss_function, optimizer, epochs, dev
 
     return history
 def test(model, test_loader, device):
-    checkpoint = torch.load('../saved_models/audio.pt')
-    model.load_state_dict(checkpoint['model_state_dict'])
+    # checkpoint = torch.load('../saved_models/audio.pt')
+    # model.load_state_dict(checkpoint['model_state_dict'])
     model = model.eval()
     y_true = []
     y_pred = []
@@ -315,7 +311,7 @@ if __name__ == '__main__':
         train_batch_size=batch_size
     )
     torch.cuda.empty_cache()
-    writer = SummaryWriter()
+    writer = SummaryWriter("../saved_model/audio_exp1")
     # device = "cuda" if torch.cuda.is_available () else "cpu"
     device = "cpu"
     model = BaselineCNN()
