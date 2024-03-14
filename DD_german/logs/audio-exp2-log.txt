@@ -1,0 +1,168 @@
+Generation train and validaiton loader for training for number of samples 21779
+length of training dataset 15245 and class count is {'<f/>': 14453, '<e/>': 307, '<rps/>': 485}
+length of validation dataset 3266 and class count is {'<f/>': 3074, '<e/>': 76, '<rps/>': 116}
+length of test dataset 3268 and class count is {'<f/>': 3086, '<e/>': 75, '<rps/>': 107}
+train() called: model=BaselineCNN, opt=Adam(lr=0.010000), epochs=10, device=cpu
+
+batch number 0 out of 120 and train loss 152.99900817871094
+batch number 10 out of 120 and train loss 467589.80308532715
+batch number 20 out of 120 and train loss 904289.9273529053
+batch number 30 out of 120 and train loss 916874.6255264282
+batch number 40 out of 120 and train loss 917946.4600601196
+batch number 50 out of 120 and train loss 918657.936958313
+batch number 60 out of 120 and train loss 925960.0529632568
+batch number 70 out of 120 and train loss 926347.9973182678
+batch number 80 out of 120 and train loss 926664.8435649872
+batch number 90 out of 120 and train loss 926994.3315258026
+batch number 100 out of 120 and train loss 927346.8502044678
+batch number 110 out of 120 and train loss 927661.6125431061
+Epoch 1/10, train loss: 60.868320441817595, train acc: 0.8864545822143555
+Epoch   1/ 10, train loss: 60.87, train acc:  0.89, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 34.805030822753906
+batch number 10 out of 120 and train loss 338.5499629974365
+batch number 20 out of 120 and train loss 601.6192607879639
+batch number 30 out of 120 and train loss 886.1937627792358
+batch number 40 out of 120 and train loss 1192.069592475891
+batch number 50 out of 120 and train loss 1461.5493535995483
+batch number 60 out of 120 and train loss 1771.4181394577026
+batch number 70 out of 120 and train loss 2084.9254217147827
+batch number 80 out of 120 and train loss 2380.6093969345093
+batch number 90 out of 120 and train loss 2707.1357202529907
+batch number 100 out of 120 and train loss 3056.7149839401245
+batch number 110 out of 120 and train loss 3370.973479270935
+Epoch 2/10, train loss: 0.23920133460390056, train acc: 0.9480485320091248
+Epoch   2/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 34.932212829589844
+batch number 10 out of 120 and train loss 338.95677375793457
+batch number 20 out of 120 and train loss 602.2026510238647
+batch number 30 out of 120 and train loss 886.6410465240479
+batch number 40 out of 120 and train loss 1192.471471786499
+batch number 50 out of 120 and train loss 1461.99662399292
+batch number 60 out of 120 and train loss 1771.9381999969482
+batch number 70 out of 120 and train loss 2085.439100265503
+batch number 80 out of 120 and train loss 2381.416437149048
+batch number 90 out of 120 and train loss 2707.9224739074707
+batch number 100 out of 120 and train loss 3057.669548034668
+batch number 110 out of 120 and train loss 3372.081226348877
+Epoch 3/10, train loss: 0.23927193502249502, train acc: 0.9480485320091248
+Epoch   3/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 34.96344757080078
+batch number 10 out of 120 and train loss 339.0998001098633
+batch number 20 out of 120 and train loss 602.3426322937012
+batch number 30 out of 120 and train loss 886.8673238754272
+batch number 40 out of 120 and train loss 1192.753867149353
+batch number 50 out of 120 and train loss 1462.3364219665527
+batch number 60 out of 120 and train loss 1772.368007659912
+batch number 70 out of 120 and train loss 2085.8816833496094
+batch number 80 out of 120 and train loss 2382.080102920532
+batch number 90 out of 120 and train loss 2708.543098449707
+batch number 100 out of 120 and train loss 3058.461811065674
+batch number 110 out of 120 and train loss 3373.025800704956
+Epoch 4/10, train loss: 0.2393333862351468, train acc: 0.9480485320091248
+Epoch   4/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 34.987510681152344
+batch number 10 out of 120 and train loss 339.2190914154053
+batch number 20 out of 120 and train loss 602.4436683654785
+batch number 30 out of 120 and train loss 887.0623149871826
+batch number 40 out of 120 and train loss 1193.003345489502
+batch number 50 out of 120 and train loss 1462.6326055526733
+batch number 60 out of 120 and train loss 1772.7581186294556
+batch number 70 out of 120 and train loss 2086.2924070358276
+batch number 80 out of 120 and train loss 2382.667607307434
+batch number 90 out of 120 and train loss 2709.0863103866577
+batch number 100 out of 120 and train loss 3059.1728467941284
+batch number 110 out of 120 and train loss 3373.878035545349
+Epoch 5/10, train loss: 0.2393899029500174, train acc: 0.9480485320091248
+Epoch   5/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 35.00757598876953
+batch number 10 out of 120 and train loss 339.3236389160156
+batch number 20 out of 120 and train loss 602.5275373458862
+batch number 30 out of 120 and train loss 887.2385177612305
+batch number 40 out of 120 and train loss 1193.2285423278809
+batch number 50 out of 120 and train loss 1462.8946838378906
+batch number 60 out of 120 and train loss 1773.1130657196045
+batch number 70 out of 120 and train loss 2086.6713066101074
+batch number 80 out of 120 and train loss 2383.191411972046
+batch number 90 out of 120 and train loss 2709.5705432891846
+batch number 100 out of 120 and train loss 3059.8177852630615
+batch number 110 out of 120 and train loss 3374.6513900756836
+Epoch 6/10, train loss: 0.23944193615326728, train acc: 0.9480485320091248
+Epoch   6/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 35.025718688964844
+batch number 10 out of 120 and train loss 339.4202938079834
+batch number 20 out of 120 and train loss 602.6054840087891
+batch number 30 out of 120 and train loss 887.4044904708862
+batch number 40 out of 120 and train loss 1193.4380769729614
+batch number 50 out of 120 and train loss 1463.1338720321655
+batch number 60 out of 120 and train loss 1773.4416017532349
+batch number 70 out of 120 and train loss 2087.0252828598022
+batch number 80 out of 120 and train loss 2383.6653509140015
+batch number 90 out of 120 and train loss 2710.0117597579956
+batch number 100 out of 120 and train loss 3060.4106121063232
+batch number 110 out of 120 and train loss 3375.360340118408
+Epoch 7/10, train loss: 0.23949011639738013, train acc: 0.9480485320091248
+Epoch   7/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 35.043174743652344
+batch number 10 out of 120 and train loss 339.51305389404297
+batch number 20 out of 120 and train loss 602.6830902099609
+batch number 30 out of 120 and train loss 887.5655288696289
+batch number 40 out of 120 and train loss 1193.6384925842285
+batch number 50 out of 120 and train loss 1463.3590307235718
+batch number 60 out of 120 and train loss 1773.7515325546265
+batch number 70 out of 120 and train loss 2087.361283302307
+batch number 80 out of 120 and train loss 2384.10112285614
+batch number 90 out of 120 and train loss 2710.4223489761353
+batch number 100 out of 120 and train loss 3060.9625520706177
+batch number 110 out of 120 and train loss 3376.0168981552124
+Epoch 8/10, train loss: 0.23953502602159255, train acc: 0.9480485320091248
+Epoch   8/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 35.06059265136719
+batch number 10 out of 120 and train loss 339.60418701171875
+batch number 20 out of 120 and train loss 602.7631359100342
+batch number 30 out of 120 and train loss 887.7246532440186
+batch number 40 out of 120 and train loss 1193.8340530395508
+batch number 50 out of 120 and train loss 1463.5760679244995
+batch number 60 out of 120 and train loss 1774.0489110946655
+batch number 70 out of 120 and train loss 2087.6849603652954
+batch number 80 out of 120 and train loss 2384.5079278945923
+batch number 90 out of 120 and train loss 2710.811360359192
+batch number 100 out of 120 and train loss 3061.482262611389
+batch number 110 out of 120 and train loss 3376.6306047439575
+Epoch 9/10, train loss: 0.23957715071994345, train acc: 0.9480485320091248
+Epoch   9/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+batch number 0 out of 120 and train loss 35.07826614379883
+batch number 10 out of 120 and train loss 339.69436264038086
+batch number 20 out of 120 and train loss 602.8464641571045
+batch number 30 out of 120 and train loss 887.8830451965332
+batch number 40 out of 120 and train loss 1194.0270080566406
+batch number 50 out of 120 and train loss 1463.7885370254517
+batch number 60 out of 120 and train loss 1774.3374910354614
+batch number 70 out of 120 and train loss 2087.999804496765
+batch number 80 out of 120 and train loss 2384.8920946121216
+batch number 90 out of 120 and train loss 2711.184510231018
+batch number 100 out of 120 and train loss 3061.975344657898
+batch number 110 out of 120 and train loss 3377.207787513733
+Epoch 10/10, train loss: 0.23961682630835418, train acc: 0.9480485320091248
+Epoch  10/ 10, train loss:  0.24, train acc:  0.95, val loss:  0.26, val acc:  0.94
+
+Time total:     19574.88 sec
+Time per epoch: 1957.49 sec
+{'loss': [60.868320441817595, 0.23920133460390056, 0.23927193502249502, 0.2393333862351468, 0.2393899029500174, 0.23944193615326728, 0.23949011639738013, 0.23953502602159255, 0.23957715071994345, 0.23961682630835418], 'val_loss': [0.2631395861497337, 0.2632088957300817, 0.2632490256704294, 0.2632877021863719, 0.26332638948809056, 0.2633670466630939, 0.26341113674443556, 0.2634595351319918, 0.26351261817817667, 0.26357069014772927], 'acc': [0.8864545822143555, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248, 0.9480485320091248], 'val_acc': [0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766, 0.9412124923453766]}
+---------------------------------------------------------------------------------------------------------------
+/home/phantom/miniconda3/envs/pyt/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/phantom/miniconda3/envs/pyt/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+/home/phantom/miniconda3/envs/pyt/lib/python3.11/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.
+  _warn_prf(average, modifier, msg_start, len(result))
+              precision    recall  f1-score   support
+
+        <f/>       0.94      1.00      0.97      3086
+        <e/>       0.00      0.00      0.00        75
+      <rps/>       0.00      0.00      0.00       107
+
+    accuracy                           0.94      3268
+   macro avg       0.31      0.33      0.32      3268
+weighted avg       0.89      0.94      0.92      3268
+
+
